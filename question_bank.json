@@ -63,17 +63,17 @@
     "difficulty_label": "Integration",
     "question": "A researcher finds that children who show early development of fine motor skills also show accelerated maturation in specific cortical motor regions. Which of the three perspectives on brain development does this finding best illustrate?",
     "options": {
-      "A": "Neuroplasticity: early motor practice reshapes the cortex",
-      "B": "The correlation between structural brain development and emerging behaviours",
+      "A": "The correlation between structural brain development and emerging behaviours",
+      "B": "Neuroplasticity: early motor practice reshapes the cortex",
       "C": "Abnormal experience causing atypical brain development",
       "D": "Evolutionary influences on the timing of behavioural emergence"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "The correlation between structural maturation in specific brain regions and the concurrent emergence of related behaviours directly exemplifies the first of the three developmental perspectives.",
     "distractor_explanations": {
-      "A": "Neuroplasticity driven by experience is a separate perspective (8-4); the finding here describes a developmental correlation, not a practice-induced change.",
       "C": "This scenario describes normal variation in typical development, not abnormal experience leading to atypical outcomes.",
-      "D": "Evolution shapes the species-typical timeline of development but does not explain individual variation in the structural-behavioural correlation."
+      "D": "Evolution shapes the species-typical timeline of development but does not explain individual variation in the structural-behavioural correlation.",
+      "B": "Neuroplasticity driven by experience is a separate perspective (8-4); the finding here describes a developmental correlation, not a practice-induced change."
     },
     "concept_tags": [
       "brain-behaviour correlation",
@@ -91,17 +91,17 @@
     "difficulty_label": "Recall",
     "question": "The central nervous system begins as a sheet of cells that folds inward during early embryonic development. What structure does it form?",
     "options": {
-      "A": "The cerebral cortex",
-      "B": "The neural tube",
+      "A": "The neural tube",
+      "B": "The cerebral cortex",
       "C": "The hippocampus",
       "D": "The corpus callosum"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "The neural plate folds inward to form the neural tube, the embryonic precursor of the entire central nervous system.",
     "distractor_explanations": {
-      "A": "The cerebral cortex differentiates later from the walls of the neural tube; it is not the immediate product of the folding.",
       "C": "The hippocampus is a highly derived structure that develops much later from the neural tube walls.",
-      "D": "The corpus callosum is an axonal commissure that forms only after cortical neurons have differentiated and grown their axons."
+      "D": "The corpus callosum is an axonal commissure that forms only after cortical neurons have differentiated and grown their axons.",
+      "B": "The cerebral cortex differentiates later from the walls of the neural tube; it is not the immediate product of the folding."
     },
     "concept_tags": [
       "neural plate",
@@ -149,16 +149,16 @@
     "question": "Neural Darwinism proposes that the developing brain produces far more synaptic connections than will be retained in the mature brain. What is the analogy to Darwinian natural selection, and what is the 'selection pressure'?",
     "options": {
       "A": "Connections compete for physical space in the brain, like species competing for ecological niches",
-      "B": "Synapses that are repeatedly active are selectively retained; inactive ones are eliminated — mirroring the survival of the 'fittest'",
+      "B": "Neurons rapidly speciate into distinct sub-types, analogous to adaptive radiation",
       "C": "Random genetic mutations create new synaptic variants, with the most useful ones retained",
-      "D": "Neurons rapidly speciate into distinct sub-types, analogous to adaptive radiation"
+      "D": "Synapses that are repeatedly active are selectively retained; inactive ones are eliminated — mirroring the survival of the 'fittest'"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "Neural Darwinism (Edelman) draws the analogy between natural selection and activity-dependent synaptic pruning: synapses that fire together and are functionally useful survive; those that are inactive are eliminated.",
     "distractor_explanations": {
       "A": "Physical spatial competition is not the Darwinian analogy being drawn — the selection criterion is neural activity, not territory.",
       "C": "Neural Darwinism concerns selection among existing connections, not the generation of variation through mutation.",
-      "D": "Speciation is a population-level evolutionary concept; Neural Darwinism applies the selection logic to individual synapses within one organism's brain."
+      "B": "Speciation is a population-level evolutionary concept; Neural Darwinism applies the selection logic to individual synapses within one organism's brain."
     },
     "concept_tags": [
       "neural Darwinism",
@@ -234,16 +234,16 @@
     "question": "A 10-month-old infant can grasp small objects with a pincer grip, but a 4-month-old cannot. Based on the textbook's account of motor development and brain maturation, what is the best explanation for this difference?",
     "options": {
       "A": "The 10-month-old has had far more practice with manipulation tasks",
-      "B": "The corticospinal tract and fine motor cortical regions have matured sufficiently by 10 months but not at 4 months",
+      "B": "The difference is primarily explained by greater arm and hand muscle mass at 10 months",
       "C": "The 4-month-old lacks the visual acuity required to locate small objects",
-      "D": "The difference is primarily explained by greater arm and hand muscle mass at 10 months"
+      "D": "The corticospinal tract and fine motor cortical regions have matured sufficiently by 10 months but not at 4 months"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "Fine motor control requires maturation of the corticospinal tract and the relevant cortical motor areas. These circuits are not yet mature at 4 months — the behaviour cannot emerge before the neural machinery is in place.",
     "distractor_explanations": {
       "A": "Practice refines motor skills but cannot generate a behaviour before the underlying neural circuitry has matured sufficiently.",
       "C": "Visual acuity is partially relevant, but the primary constraint identified in the textbook is the maturation of motor neural circuitry, not vision.",
-      "D": "Peripheral muscle development is a minor factor; the rate-limiting step is the maturation of the central motor pathways."
+      "B": "Peripheral muscle development is a minor factor; the rate-limiting step is the maturation of the central motor pathways."
     },
     "concept_tags": [
       "motor development",
@@ -290,17 +290,17 @@
     "difficulty_label": "Understanding",
     "question": "The chemoaffinity hypothesis proposes that developing neurons find their correct synaptic targets by what mechanism?",
     "options": {
-      "A": "Random connection followed by activity-dependent selection of the most active synapses",
-      "B": "A molecular 'address' system in which each neuron and its target share complementary chemical identities",
+      "A": "A molecular 'address' system in which each neuron and its target share complementary chemical identities",
+      "B": "Random connection followed by activity-dependent selection of the most active synapses",
       "C": "Mechanical guidance along the nearest available axon pathway",
       "D": "Electrical gradient fields generated by the target tissue"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "The chemoaffinity hypothesis (Sperry) proposes that each neuron carries a distinctive chemical label and recognises matching labels on its target — a molecular address system.",
     "distractor_explanations": {
-      "A": "This describes neural Darwinism, which operates at the stage of synaptic refinement, not initial target finding.",
       "C": "Contact-mediated guidance is one of two cue types but is distinct from chemoaffinity, which specifically refers to diffusible chemical molecular identity.",
-      "D": "Electrical gradient fields are not the mechanism proposed in Sperry's chemoaffinity hypothesis."
+      "D": "Electrical gradient fields are not the mechanism proposed in Sperry's chemoaffinity hypothesis.",
+      "B": "This describes neural Darwinism, which operates at the stage of synaptic refinement, not initial target finding."
     },
     "concept_tags": [
       "chemoaffinity hypothesis",
@@ -376,17 +376,17 @@
     "difficulty_label": "Understanding",
     "question": "What does the textbook identify as a possible biological link to sudden infant death syndrome (SIDS)?",
     "options": {
-      "A": "Premature closure of the fontanelle restricting brain growth",
-      "B": "A gene variation affecting the serotonin transporter",
+      "A": "A gene variation affecting the serotonin transporter",
+      "B": "Premature closure of the fontanelle restricting brain growth",
       "C": "Overactivation of the hypothalamic-pituitary-adrenal (HPA) axis",
       "D": "Delayed myelination of the brainstem respiratory centres"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "The textbook links SIDS to a gene variation that alters the serotonin transporter, affecting brainstem arousal circuits that regulate breathing and arousal during sleep.",
     "distractor_explanations": {
-      "A": "Fontanelle closure is unrelated to SIDS in the textbook's account.",
       "C": "HPA axis involvement is associated with stress responses; this is not the specific mechanism described for SIDS.",
-      "D": "While brainstem circuits are relevant to SIDS broadly, the textbook specifically identifies a serotonin transporter gene variation."
+      "D": "While brainstem circuits are relevant to SIDS broadly, the textbook specifically identifies a serotonin transporter gene variation.",
+      "B": "Fontanelle closure is unrelated to SIDS in the textbook's account."
     },
     "concept_tags": [
       "SIDS",
@@ -433,17 +433,17 @@
     "difficulty_label": "Recall",
     "question": "Glickman and Schiff proposed that animals engage in prey-killing behaviours because these behaviours are what?",
     "options": {
-      "A": "Learned through observation of conspecifics",
-      "B": "Intrinsically rewarding — they are self-reinforcing",
+      "A": "Intrinsically rewarding — they are self-reinforcing",
+      "B": "Learned through observation of conspecifics",
       "C": "Necessary for establishing social dominance hierarchies",
       "D": "Triggered directly by hunger signals from the hypothalamus"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "Glickman and Schiff proposed that species-typical behaviours such as prey-killing are self-reinforcing — the animal is intrinsically motivated to perform them because doing so activates reward circuits.",
     "distractor_explanations": {
-      "A": "The hypothesis is specifically about innate, self-reinforcing motivation, not observational learning.",
       "C": "Dominance hierarchies may involve aggression, but this is not Glickman and Schiff's explanation for prey-killing.",
-      "D": "Hunger is one motivating factor, but the textbook's account specifically emphasises intrinsic reward/self-reinforcement."
+      "D": "Hunger is one motivating factor, but the textbook's account specifically emphasises intrinsic reward/self-reinforcement.",
+      "B": "The hypothesis is specifically about innate, self-reinforcing motivation, not observational learning."
     },
     "concept_tags": [
       "innate releasing mechanism",
@@ -490,16 +490,16 @@
     "question": "A neuroscientist argues that a patient's violent outburst was not caused by 'free will' but by dysregulation of neural circuits controlling emotion and reward. Which view of behaviour does this most closely reflect, as described in Chapter 12?",
     "options": {
       "A": "Mentalism: the independent mind directs behaviour",
-      "B": "A neural circuit-based view: behaviour is the product of brain activity, not uncaused will",
+      "B": "Behaviourism: all behaviour is shaped by environmental reinforcement history",
       "C": "Evolutionary psychology's emphasis on species-typical adaptive behaviours",
-      "D": "Behaviourism: all behaviour is shaped by environmental reinforcement history"
+      "D": "A neural circuit-based view: behaviour is the product of brain activity, not uncaused will"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "Section 12-1 argues that free will is not a likely primary cause of behaviour; instead, behaviour is determined by neural circuits, evolutionary pressures, and environmental history — all brain-based accounts.",
     "distractor_explanations": {
       "A": "Mentalism posits an independent mind that directs behaviour; the chapter argues against this as a primary causal account.",
       "C": "Evolutionary psychology is one framework mentioned, but the specific claim here is about neural circuit dysregulation, not species-typical adaptation.",
-      "D": "Behaviourism emphasises environmental reinforcement; neural circuit dysregulation is a biological/neurological, not a behaviourist, explanation."
+      "B": "Behaviourism emphasises environmental reinforcement; neural circuit dysregulation is a biological/neurological, not a behaviourist, explanation."
     },
     "concept_tags": [
       "free will",
@@ -518,17 +518,17 @@
     "difficulty_label": "Recall",
     "question": "What is the primary distinction between regulatory and nonregulatory behaviours?",
     "options": {
-      "A": "Regulatory behaviours are voluntary; nonregulatory behaviours are involuntary",
-      "B": "Regulatory behaviours maintain homeostasis; nonregulatory behaviours encompass all other motivated behaviours",
+      "A": "Regulatory behaviours maintain homeostasis; nonregulatory behaviours encompass all other motivated behaviours",
+      "B": "Regulatory behaviours are voluntary; nonregulatory behaviours are involuntary",
       "C": "Regulatory behaviours are innate; nonregulatory behaviours are all learned",
       "D": "Regulatory behaviours are cortically controlled; nonregulatory behaviours are hypothalamically controlled"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "The textbook defines regulatory behaviours as those that maintain homeostasis (e.g. eating, drinking, thermoregulation), and nonregulatory behaviours as encompassing basically all other behaviours (e.g. sexual behaviour, exploration).",
     "distractor_explanations": {
-      "A": "Both regulatory and nonregulatory behaviours can be voluntary or involuntary.",
       "C": "Both types can be innate or learned; the defining criterion is homeostasis, not learning.",
-      "D": "The hypothalamus coordinates both regulatory and nonregulatory behaviour; the cortex/hypothalamus distinction is not the defining one."
+      "D": "The hypothalamus coordinates both regulatory and nonregulatory behaviour; the cortex/hypothalamus distinction is not the defining one.",
+      "B": "Both regulatory and nonregulatory behaviours can be voluntary or involuntary."
     },
     "concept_tags": [
       "regulatory behaviour",
@@ -576,16 +576,16 @@
     "question": "A researcher lesions the medial forebrain bundle (MFB) in a rat and observes that the animal stops seeking food even when severely food-deprived. What does this finding most strongly suggest about the MFB?",
     "options": {
       "A": "The MFB is the primary pathway transmitting hunger signals from the stomach to the cortex",
-      "B": "The MFB is a critical component of the motivational pathway linking the hypothalamus to goal-directed behaviour",
+      "B": "The MFB is responsible for the sensory detection of food odours",
       "C": "The MFB controls the endocrine release of appetite-regulating hormones from the pituitary",
-      "D": "The MFB is responsible for the sensory detection of food odours"
+      "D": "The MFB is a critical component of the motivational pathway linking the hypothalamus to goal-directed behaviour"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "The MFB is the major motivational/reward pathway coursing through the hypothalamus; its disruption abolishes goal-directed appetitive behaviour even in the presence of a strong biological need.",
     "distractor_explanations": {
       "A": "Visceral hunger signals from the stomach travel via the vagus nerve to the brainstem, not primarily through the MFB.",
       "C": "The MFB is a neural fibre bundle, not an endocrine control structure.",
-      "D": "Olfactory processing involves the olfactory bulb and piriform cortex, not the MFB."
+      "B": "Olfactory processing involves the olfactory bulb and piriform cortex, not the MFB."
     },
     "concept_tags": [
       "medial forebrain bundle",
@@ -604,17 +604,17 @@
     "difficulty_label": "Recall",
     "question": "What is the name of the receptor surface for olfaction?",
     "options": {
-      "A": "The gustatory epithelium",
-      "B": "The olfactory epithelium",
+      "A": "The olfactory epithelium",
+      "B": "The gustatory epithelium",
       "C": "The piriform cortex",
       "D": "The orbitofrontal cortex"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "The olfactory epithelium, lining the nasal cavity, contains the olfactory receptor neurons that transduce chemical odorants into neural signals.",
     "distractor_explanations": {
-      "A": "'Gustatory epithelium' is not a standard term; taste receptors sit in taste buds on the tongue and palate.",
       "C": "The piriform cortex is a processing area receiving input from the olfactory bulb — not the primary receptor surface.",
-      "D": "The orbitofrontal cortex is a higher-order association area for chemosensory integration and cognitive appraisal."
+      "D": "The orbitofrontal cortex is a higher-order association area for chemosensory integration and cognitive appraisal.",
+      "B": "'Gustatory epithelium' is not a standard term; taste receptors sit in taste buds on the tongue and palate."
     },
     "concept_tags": [
       "olfactory epithelium",
@@ -749,16 +749,16 @@
     "question": "A study finds that injecting glucose into the portal vein (liver blood supply) suppresses eating in a rat even before blood glucose levels rise measurably. What does this finding suggest about how eating is regulated?",
     "options": {
       "A": "Glucose regulation is entirely handled by the pancreas and does not involve the brain",
-      "B": "The body uses peripheral sensing mechanisms (e.g. hepatic glucose receptors feeding back via the vagus nerve) alongside central hypothalamic monitoring to regulate eating",
+      "B": "Insulin release from the pancreas is the sole satiety signal",
       "C": "The liver controls appetite independently of the hypothalamus",
-      "D": "Insulin release from the pancreas is the sole satiety signal"
+      "D": "The body uses peripheral sensing mechanisms (e.g. hepatic glucose receptors feeding back via the vagus nerve) alongside central hypothalamic monitoring to regulate eating"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "This finding illustrates that eating regulation involves multiple peripheral signals — including hepatic glucoreceptors reporting to the hypothalamus via the vagus nerve — not just central monitoring of blood glucose.",
     "distractor_explanations": {
       "A": "The brain, especially the hypothalamus, is central to eating regulation; peripheral signals inform it.",
       "C": "The liver's glucose signal travels via the vagus nerve to the brainstem and hypothalamus; it does not act independently.",
-      "D": "Insulin is one important satiety signal, but the finding here demonstrates a pre-insulin, vagus-nerve-mediated peripheral mechanism."
+      "B": "Insulin is one important satiety signal, but the finding here demonstrates a pre-insulin, vagus-nerve-mediated peripheral mechanism."
     },
     "concept_tags": [
       "regulatory behaviour",
@@ -778,16 +778,16 @@
     "question": "What is the distinction between the organisational and activating effects of gonadal hormones on the brain?",
     "options": {
       "A": "Organisational effects occur in adulthood; activating effects occur prenatally",
-      "B": "Organisational effects are permanent structural changes during prenatal/early development; activating effects are temporary, reversible changes in adults",
+      "B": "Organisational effects increase overall brain size; activating effects reduce it",
       "C": "Organisational effects involve only testosterone; activating effects involve only oestrogen",
-      "D": "Organisational effects increase overall brain size; activating effects reduce it"
+      "D": "Organisational effects are permanent structural changes during prenatal/early development; activating effects are temporary, reversible changes in adults"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "Organisational effects occur prenatally/neonatally and permanently shape brain structure (e.g. masculinisation). Activating effects occur in adulthood and are reversible — they activate or suppress behaviours in response to current hormone levels.",
     "distractor_explanations": {
       "A": "This reverses the correct timing — organisational effects are prenatal/early developmental, not adult.",
       "C": "Both testosterone and oestrogen can exert both types of effect.",
-      "D": "Organisational effects concern structural differentiation, not overall brain size increase."
+      "B": "Organisational effects concern structural differentiation, not overall brain size increase."
     },
     "concept_tags": [
       "activating effects",
@@ -894,17 +894,17 @@
     "difficulty_label": "Understanding",
     "question": "Klüver-Bucy syndrome results from bilateral removal of the temporal lobes (including the amygdala). Which combination of symptoms characterises this syndrome?",
     "options": {
-      "A": "Anterograde amnesia, loss of language, and spatial disorientation",
-      "B": "Hypersexuality, abnormal placidity, hyperorality (putting everything in the mouth), and visual agnosia",
+      "A": "Hypersexuality, abnormal placidity, hyperorality (putting everything in the mouth), and visual agnosia",
+      "B": "Anterograde amnesia, loss of language, and spatial disorientation",
       "C": "Severe depression, anhedonia, and insensitivity to reward",
       "D": "Rage attacks, hyperaggression, and extreme sensitivity to threat stimuli"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "Klüver-Bucy syndrome is characterised by four core features: (1) hyperorality — examining objects orally; (2) hypersexuality; (3) abnormal placidity/tameness (loss of fear and aggression); and (4) visual agnosia.",
     "distractor_explanations": {
-      "A": "Anterograde amnesia follows hippocampal damage; spatial disorientation follows parietal damage — these are not the classic Klüver-Bucy profile.",
       "C": "Depression and anhedonia involve reward circuit dysfunction, not the bilateral temporal profile of Klüver-Bucy.",
-      "D": "Klüver-Bucy produces the opposite — abnormal placidity and loss of aggression, not rage attacks."
+      "D": "Klüver-Bucy produces the opposite — abnormal placidity and loss of aggression, not rage attacks.",
+      "B": "Anterograde amnesia follows hippocampal damage; spatial disorientation follows parietal damage — these are not the classic Klüver-Bucy profile."
     },
     "concept_tags": [
       "Klüver-Bucy syndrome",
@@ -924,16 +924,16 @@
     "question": "A patient with bilateral amygdala damage is shown photographs of fearful facial expressions. Based on the textbook's account of amygdala function, what response would you predict?",
     "options": {
       "A": "The patient shows an exaggerated startle and heightened arousal to fearful faces",
-      "B": "The patient shows impaired recognition of fear in faces and diminished fear conditioning",
+      "B": "The patient specifically loses recognition of positive emotions while negative emotions are intact",
       "C": "The patient shows enhanced recognition of fear because intact cortical areas over-compensate",
-      "D": "The patient specifically loses recognition of positive emotions while negative emotions are intact"
+      "D": "The patient shows impaired recognition of fear in faces and diminished fear conditioning"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "The amygdala is critical for fear processing and social emotional recognition. Bilateral damage impairs both the recognition of fear in others' faces and the acquisition of conditioned fear responses.",
     "distractor_explanations": {
       "A": "Bilateral amygdala damage reduces fear responses; it does not exaggerate them.",
       "C": "Some compensatory processing occurs, but the textbook's prediction for amygdala damage is impaired fear recognition, not enhanced recognition.",
-      "D": "The amygdala is most prominently associated with negative emotions (especially fear); specific loss of positive emotion recognition would suggest a different lesion profile."
+      "B": "The amygdala is most prominently associated with negative emotions (especially fear); specific loss of positive emotion recognition would suggest a different lesion profile."
     },
     "concept_tags": [
       "amygdala",
@@ -953,16 +953,16 @@
     "question": "In Olds and Milner's self-stimulation experiments, rats with electrodes in certain brain regions pressed a lever thousands of times per hour to receive electrical stimulation, ignoring food and water. What did this demonstrate?",
     "options": {
       "A": "Electrical stimulation can substitute entirely for all primary biological needs",
-      "B": "Certain brain circuits function as reward pathways — stimulating them is intrinsically reinforcing",
+      "B": "Dopamine is the only neurotransmitter involved in reward",
       "C": "Rats have a single discrete 'pleasure centre' that overrides all other brain systems",
-      "D": "Dopamine is the only neurotransmitter involved in reward"
+      "D": "Certain brain circuits function as reward pathways — stimulating them is intrinsically reinforcing"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "Olds and Milner demonstrated that activation of reward circuits (via the MFB and related structures) is powerfully self-reinforcing — the animal will work relentlessly to re-activate them.",
     "distractor_explanations": {
       "A": "The self-stimulation shows reward circuits can override biological drive-states; it does not mean electrical stimulation replaces actual homeostatic needs.",
       "C": "The finding supports the existence of a distributed reward circuit, not a single 'pleasure centre' — that is an oversimplification.",
-      "D": "The experiment demonstrates the behavioural importance of reward circuits; it does not isolate dopamine as the sole neurotransmitter."
+      "B": "The experiment demonstrates the behavioural importance of reward circuits; it does not isolate dopamine as the sole neurotransmitter."
     },
     "concept_tags": [
       "reward",
@@ -1011,17 +1011,17 @@
     "difficulty_label": "Integration",
     "question": "A patient with early Parkinson's disease (involving loss of dopaminergic neurons) reports that they can no longer feel anticipatory excitement before pleasurable activities, although the activities themselves are still somewhat enjoyable. Which theoretical framework from the textbook best maps onto this dissociation?",
     "options": {
-      "A": "The regulatory vs. nonregulatory behaviour distinction (Section 12-2)",
-      "B": "The wanting/liking dissociation: dopamine underlies wanting (anticipatory motivation) but not necessarily liking (consummatory pleasure)",
+      "A": "The wanting/liking dissociation: dopamine underlies wanting (anticipatory motivation) but not necessarily liking (consummatory pleasure)",
+      "B": "The regulatory vs. nonregulatory behaviour distinction (Section 12-2)",
       "C": "Klüver-Bucy syndrome: temporal lobe damage reducing all reward sensitivity equally",
       "D": "Cognitive-arousal theory: the patient misattributes lack of dopaminergic arousal as lack of emotion"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "The dissociation between intact 'liking' but impaired 'wanting' in a dopamine-depleted patient directly illustrates the textbook's framework: dopamine drives anticipatory/incentive motivation (wanting), while consummatory pleasure (liking) depends more on opioid systems.",
     "distractor_explanations": {
-      "A": "The regulatory/nonregulatory distinction is about homeostasis vs. other behaviour types, not the wanting/liking dissociation.",
       "C": "Klüver-Bucy involves bilateral temporal/amygdala damage and produces generalised placidity, not the specific pattern described here.",
-      "D": "Cognitive-arousal theory concerns the labelling of physiological arousal as specific emotions; it does not explain the anticipatory vs. consummatory dissociation."
+      "D": "Cognitive-arousal theory concerns the labelling of physiological arousal as specific emotions; it does not explain the anticipatory vs. consummatory dissociation.",
+      "B": "The regulatory/nonregulatory distinction is about homeostasis vs. other behaviour types, not the wanting/liking dissociation."
     },
     "concept_tags": [
       "reward",
@@ -1100,16 +1100,16 @@
     "question": "Cognitive neuroscientists often describe thought as a 'psychological construct.' Why does this create a particular methodological challenge for neuroscience research?",
     "options": {
       "A": "Psychological constructs are too simple to require neuroscientific explanation",
-      "B": "Thought cannot be directly observed — it must be inferred from behaviour, making it difficult to map precisely onto specific neural structures",
+      "B": "Psychological constructs are purely philosophical and are agreed to have no neural correlates",
       "C": "The brain cannot process abstract concepts and only works with concrete sensory information",
-      "D": "Psychological constructs are purely philosophical and are agreed to have no neural correlates"
+      "D": "Thought cannot be directly observed — it must be inferred from behaviour, making it difficult to map precisely onto specific neural structures"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "The textbook explains that psychological constructs like thought are inferred from behaviour rather than directly observed. This makes it difficult to assign them unambiguously to specific brain regions or circuits — the construct may be implemented in distributed or overlapping ways.",
     "distractor_explanations": {
       "A": "Constructs like thought are more complex, not simpler, than directly observable stimuli or responses.",
       "C": "Chapter 15 extensively documents how the brain processes abstract concepts; the methodological challenge is about indirect measurement, not brain incapacity.",
-      "D": "The whole enterprise of Chapter 15 is demonstrating that thought has neural correlates; the challenge is methodological, not a lack of correlates."
+      "B": "The whole enterprise of Chapter 15 is demonstrating that thought has neural correlates; the challenge is methodological, not a lack of correlates."
     },
     "concept_tags": [
       "cognition",
@@ -1156,17 +1156,17 @@
     "difficulty_label": "Understanding",
     "question": "A patient with damage to the right parietal lobe systematically ignores the left side of their body and the left side of space, failing to eat food on the left side of their plate. What is this syndrome and which cortical function does it reflect?",
     "options": {
-      "A": "Prosopagnosia — impaired object recognition in the temporal lobe",
-      "B": "Contralateral neglect — a disorder of spatial cognition mediated by the parietal lobe",
+      "A": "Contralateral neglect — a disorder of spatial cognition mediated by the parietal lobe",
+      "B": "Prosopagnosia — impaired object recognition in the temporal lobe",
       "C": "Executive dysfunction — impaired planning and inhibition in the frontal lobe",
       "D": "A binding failure — impaired multisensory integration across lobes"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "Contralateral neglect (spatial neglect) is a disorder of spatial cognition following parietal damage, typically right-sided, producing systematic inattention to the contralateral (left) side of space and body.",
     "distractor_explanations": {
-      "A": "Prosopagnosia is specific failure to recognise faces, following temporal (fusiform) damage — not spatial neglect.",
       "C": "Executive dysfunction involves planning and impulse control (frontal), not the spatial inattention described.",
-      "D": "Binding failure is a theoretical concept about how perception is unified; it does not map onto this specific clinical presentation."
+      "D": "Binding failure is a theoretical concept about how perception is unified; it does not map onto this specific clinical presentation.",
+      "B": "Prosopagnosia is specific failure to recognise faces, following temporal (fusiform) damage — not spatial neglect."
     },
     "concept_tags": [
       "contralateral neglect",
@@ -1186,16 +1186,16 @@
     "question": "Mirror neurons were first discovered in macaque monkey premotor cortex. What is their proposed functional significance for social cognition?",
     "options": {
       "A": "They encode the spatial location of objects and support navigation",
-      "B": "They fire both when an action is performed and when the same action is observed, providing a potential neural basis for imitation and understanding others' intentions",
+      "B": "They are responsible for binding visual and auditory information into coherent object representations",
       "C": "They connect the two cerebral hemispheres and allow rapid sharing of motor information",
-      "D": "They are responsible for binding visual and auditory information into coherent object representations"
+      "D": "They fire both when an action is performed and when the same action is observed, providing a potential neural basis for imitation and understanding others' intentions"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "Mirror neurons respond both during action execution and action observation. This 'simulation' of observed actions is hypothesised to underlie imitation, empathy, and understanding of intentional actions in others.",
     "distractor_explanations": {
       "A": "Spatial encoding and navigation involve place cells and grid cells in the hippocampal formation, not mirror neurons.",
       "C": "Interhemispheric communication is mediated by commissures such as the corpus callosum, not mirror neurons.",
-      "D": "Multisensory binding involves parietal and temporal association areas; mirror neurons specifically code action representations."
+      "B": "Multisensory binding involves parietal and temporal association areas; mirror neurons specifically code action representations."
     },
     "concept_tags": [
       "mirror neuron",
@@ -1244,16 +1244,16 @@
     "question": "The cerebellum has traditionally been associated with motor control and coordination. What evidence has expanded this view in cognitive neuroscience?",
     "options": {
       "A": "The cerebellum contains the same neurotransmitters as the prefrontal cortex",
-      "B": "Cerebellar lesions produce not only motor deficits but also impairments in language, working memory, and other cognitive tasks",
+      "B": "The cerebellum is proportionally larger in humans than in any other primate, suggesting evolutionary expansion for cognition",
       "C": "Brain imaging shows the cerebellum is highly active during deep sleep, suggesting a role in memory consolidation",
-      "D": "The cerebellum is proportionally larger in humans than in any other primate, suggesting evolutionary expansion for cognition"
+      "D": "Cerebellar lesions produce not only motor deficits but also impairments in language, working memory, and other cognitive tasks"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "Cognitive neuroscience evidence — particularly from patients with cerebellar lesions and neuroimaging — shows the cerebellum contributes to language, working memory, and other non-motor cognitive functions beyond its traditional motor role.",
     "distractor_explanations": {
       "A": "Shared neurotransmitters would not in itself demonstrate cognitive function.",
       "C": "Cerebellar sleep activity is not the evidence cited in this section for cognitive involvement.",
-      "D": "While human cerebellar expansion is real, the textbook's evidence for cognitive function comes primarily from lesion and imaging studies."
+      "B": "While human cerebellar expansion is real, the textbook's evidence for cognitive function comes primarily from lesion and imaging studies."
     },
     "concept_tags": [
       "cerebellum",
@@ -1329,17 +1329,17 @@
     "difficulty_label": "Understanding",
     "question": "In a classic split-brain experiment, a word is flashed briefly to the left visual field only. The patient verbally reports seeing nothing, yet their left hand correctly selects the named object from a set of objects by touch. What does this demonstrate?",
     "options": {
-      "A": "The left hemisphere is dominant for all forms of object recognition",
-      "B": "The right hemisphere processed the word but, disconnected from the left hemisphere's speech centres, cannot verbalise what it perceived — demonstrating separate processing in each hemisphere",
+      "A": "The right hemisphere processed the word but, disconnected from the left hemisphere's speech centres, cannot verbalise what it perceived — demonstrating separate processing in each hemisphere",
+      "B": "The left hemisphere is dominant for all forms of object recognition",
       "C": "The patient has visual agnosia specifically affecting the right visual field",
       "D": "The left hand is universally better at tactile discrimination than the right hand"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "Left visual field input goes to the right hemisphere. In split-brain patients, the right hemisphere recognises the stimulus (demonstrated by correct hand selection) but cannot communicate this verbally because it is disconnected from the left hemisphere's language areas.",
     "distractor_explanations": {
-      "A": "It was the right hemisphere — not the left — that processed this stimulus; the left hemisphere was unaware.",
       "C": "The patient's right visual field is intact; the phenomenon is about hemispheric disconnection, not agnosia.",
-      "D": "This is a specific finding about disconnection in split-brain patients; it does not generalise to a universal left-hand tactile advantage."
+      "D": "This is a specific finding about disconnection in split-brain patients; it does not generalise to a universal left-hand tactile advantage.",
+      "B": "It was the right hemisphere — not the left — that processed this stimulus; the left hemisphere was unaware."
     },
     "concept_tags": [
       "split brain",
@@ -1359,16 +1359,16 @@
     "question": "Broca's 19th-century observation established left-hemisphere dominance for language. Based on Chapter 15, what is the right hemisphere's role in cognition — is it simply a redundant backup for the left?",
     "options": {
       "A": "Yes — the right hemisphere has no specialised functions; it serves mainly as a backup",
-      "B": "No — the right hemisphere is specialised for spatial processing, emotional prosody, holistic/global processing, and certain aspects of creativity",
+      "B": "No — the right hemisphere processes language just as well as the left, but at slower speed",
       "C": "No — the right hemisphere specialises exclusively in musical processing",
-      "D": "No — the right hemisphere processes language just as well as the left, but at slower speed"
+      "D": "No — the right hemisphere is specialised for spatial processing, emotional prosody, holistic/global processing, and certain aspects of creativity"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "The right hemisphere has well-documented specialisations: spatial cognition, recognition of emotional prosody in speech, holistic and global information processing, and aspects of non-verbal creativity — not a mere backup for the left.",
     "distractor_explanations": {
       "A": "The right hemisphere has its own distinct and well-characterised specialisations; it is not simply redundant.",
       "C": "Music is partly right-lateralised, but it is not the only right-hemisphere specialisation.",
-      "D": "Language is left-lateralised in most individuals; the right hemisphere does not simply duplicate it at slower speed."
+      "B": "Language is left-lateralised in most individuals; the right hemisphere does not simply duplicate it at slower speed."
     },
     "concept_tags": [
       "cerebral asymmetry",
@@ -1387,17 +1387,17 @@
     "difficulty_label": "Recall",
     "question": "What is synesthesia?",
     "options": {
-      "A": "The inability to distinguish between different sensory modalities",
-      "B": "A neurological phenomenon in which stimulation of one sensory modality automatically and involuntarily triggers an experience in another modality",
+      "A": "A neurological phenomenon in which stimulation of one sensory modality automatically and involuntarily triggers an experience in another modality",
+      "B": "The inability to distinguish between different sensory modalities",
       "C": "A language disorder in which letters and words become visually confused",
       "D": "The simultaneous processing of information by both cerebral hemispheres"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "Synesthesia is an involuntary cross-activation between sensory modalities — for example, hearing a sound automatically triggers a colour experience. It reflects unusual cross-connectivity between cortical areas.",
     "distractor_explanations": {
-      "A": "Synesthetes can distinguish modalities normally; they experience an additional automatic cross-modal percept.",
       "C": "Visual confusion of letters describes elements of dyslexia; synesthesia is an involuntary cross-modal experience, not a reading disorder.",
-      "D": "Bilateral processing is a normal feature of brain function; synesthesia is an atypical cross-modal phenomenon."
+      "D": "Bilateral processing is a normal feature of brain function; synesthesia is an atypical cross-modal phenomenon.",
+      "B": "Synesthetes can distinguish modalities normally; they experience an additional automatic cross-modal percept."
     },
     "concept_tags": [
       "synesthesia",
@@ -1444,16 +1444,16 @@
     "question": "A right-handed person with a family history of left-handedness shows language represented bilaterally rather than solely in the left hemisphere. What concept does this illustrate, and why is it significant?",
     "options": {
       "A": "Neuroplasticity following injury — the brain has reorganised language after damage",
-      "B": "Anomalous speech representation — familial sinistrality and mixed-handedness are associated with more bilateral or atypical language lateralisation",
+      "B": "Intelligence B — experiential factors have overridden genetic language lateralisation",
       "C": "The binding problem — language is inherently distributed across both hemispheres in all individuals",
-      "D": "Intelligence B — experiential factors have overridden genetic language lateralisation"
+      "D": "Anomalous speech representation — familial sinistrality and mixed-handedness are associated with more bilateral or atypical language lateralisation"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "Anomalous speech representation refers to atypical language lateralisation — found more often in left-handers and in right-handers with family histories of left-handedness. It demonstrates that handedness and familial patterns are markers of cerebral organisation variation.",
     "distractor_explanations": {
       "A": "This scenario describes a person without reported brain injury; the bilateral organisation is a constitutional variation, not post-injury plasticity.",
       "C": "The binding problem concerns multisensory integration, not language lateralisation patterns.",
-      "D": "Intelligence B is Hebb's concept about experiential modulation of cognitive capacity; it does not address lateralisation."
+      "B": "Intelligence B is Hebb's concept about experiential modulation of cognitive capacity; it does not address lateralisation."
     },
     "concept_tags": [
       "anomalous speech representation",
@@ -1501,17 +1501,17 @@
     "difficulty_label": "Understanding",
     "question": "What is the distinction between Hebb's Intelligence A and Intelligence B?",
     "options": {
-      "A": "Intelligence A is verbal ability; Intelligence B is visuospatial ability",
-      "B": "Intelligence A is the genetically determined neural potential; Intelligence B is the intelligence that actually develops through experience and environment",
+      "A": "Intelligence A is the genetically determined neural potential; Intelligence B is the intelligence that actually develops through experience and environment",
+      "B": "Intelligence A is verbal ability; Intelligence B is visuospatial ability",
       "C": "Intelligence A is what IQ tests measure; Intelligence B cannot be measured",
       "D": "Intelligence A develops in childhood; Intelligence B only develops in adulthood"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "correct_explanation": "Hebb distinguished Intelligence A (the biological/genetic neural substrate — potential intelligence) from Intelligence B (the intelligence that actually develops as the brain interacts with the environment). Hebb also proposed Intelligence C as what intelligence tests actually measure.",
     "distractor_explanations": {
-      "A": "Verbal vs. visuospatial is Vernon's hierarchical model, not Hebb's A/B distinction.",
       "C": "IQ tests measure something close to Intelligence C in Hebb's framework — not quite A or B.",
-      "D": "The A/B distinction is not about developmental timing but about genetic potential vs. realised ability through experience."
+      "D": "The A/B distinction is not about developmental timing but about genetic potential vs. realised ability through experience.",
+      "B": "Verbal vs. visuospatial is Vernon's hierarchical model, not Hebb's A/B distinction."
     },
     "concept_tags": [
       "intelligence A",
@@ -1560,16 +1560,16 @@
     "question": "How does the textbook define consciousness?",
     "options": {
       "A": "The brain's capacity for rapid sensorimotor integration",
-      "B": "The mind's level of responsiveness to impressions made by the senses",
+      "B": "The neural state that enables language production",
       "C": "The ability to form and retrieve long-term memories",
-      "D": "The neural state that enables language production"
+      "D": "The mind's level of responsiveness to impressions made by the senses"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "The textbook defines consciousness as 'the mind's level of responsiveness to impressions made by the senses' — a definition that captures both awareness and the sensory basis of experience.",
     "distractor_explanations": {
       "A": "Rapid sensorimotor integration occurs largely unconsciously (e.g. spinal reflexes, dorsal stream processing); this is not the textbook's definition of consciousness.",
       "C": "Memory and consciousness are related but distinct; the textbook's definition does not equate consciousness with memory capacity.",
-      "D": "Language production can occur in various states of consciousness; this is not the textbook's definition."
+      "B": "Language production can occur in various states of consciousness; this is not the textbook's definition."
     },
     "concept_tags": [
       "consciousness",
@@ -1588,16 +1588,16 @@
     "question": "The textbook describes a dissociation between the ventral and dorsal visual streams in terms of conscious access. Which statement correctly describes this dissociation?",
     "options": {
       "A": "The ventral stream processes motion unconsciously; the dorsal stream processes colour consciously",
-      "B": "The dorsal stream (action/spatial) operates rapidly and unconsciously; the ventral stream (object recognition) is the slower, conscious stream",
+      "B": "The ventral stream processes peripheral vision; the dorsal stream processes central (foveal) vision",
       "C": "Both streams operate entirely outside consciousness unless focused attention is directed to them",
-      "D": "The ventral stream processes peripheral vision; the dorsal stream processes central (foveal) vision"
+      "D": "The dorsal stream (action/spatial) operates rapidly and unconsciously; the ventral stream (object recognition) is the slower, conscious stream"
     },
-    "correct_answer": "B",
+    "correct_answer": "D",
     "correct_explanation": "The textbook states that the slow-acting ventral stream is conscious while the faster dorsal stream operates largely unconsciously — allowing, for example, accurate reaching to objects without conscious awareness of the action.",
     "distractor_explanations": {
       "A": "The ventral (not dorsal) stream is the conscious one; motion is largely a dorsal stream function.",
       "C": "The ventral stream is explicitly described as conscious; both streams do not require focused attention to operate.",
-      "D": "Central vs. peripheral vision relates to retinal organisation, not the where/what stream consciousness distinction."
+      "B": "Central vs. peripheral vision relates to retinal organisation, not the where/what stream consciousness distinction."
     },
     "concept_tags": [
       "consciousness",
