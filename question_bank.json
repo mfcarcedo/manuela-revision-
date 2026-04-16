@@ -2515,5 +2515,777 @@
       "compensation"
     ],
     "textbook_source": "Section 15-7"
+  },
+  {
+    "question_id": "9-1_T1_01",
+    "chapter": 9,
+    "section_id": "9-1",
+    "section_title": "Nature of Sensation and Perception",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "question": "What is the primary role of sensory receptors in the nervous system?",
+    "options": {
+      "A": "To store sensory memories in the hippocampus",
+      "B": "To transduce environmental energy into neural activity",
+      "C": "To relay action potentials directly to the motor cortex",
+      "D": "To regulate the emotional response to sensory stimuli"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "Sensory receptors are specialised to transduce (convert) environmental energy — such as light, sound, or pressure — into neural activity (action potentials).",
+    "distractor_explanations": {
+      "A": "Memory storage is a hippocampal function; receptors do not store memories.",
+      "C": "Receptors initiate pathways to the cortex via relay stations; they do not project directly to the motor cortex.",
+      "D": "Emotional responses are processed downstream in limbic structures; receptors simply convert energy."
+    },
+    "concept_tags": [
+      "sensory receptors",
+      "transduction",
+      "sensation"
+    ],
+    "textbook_source": "Section 9-1"
+  },
+  {
+    "question_id": "9-1_T2_02",
+    "chapter": 9,
+    "section_id": "9-1",
+    "section_title": "Nature of Sensation and Perception",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "question": "Why do fingertips allow finer tactile discrimination than the forearm?",
+    "options": {
+      "A": "Fingertip skin is thinner, allowing more direct contact with objects",
+      "B": "The forearm has more nerve fibres but they are slower",
+      "C": "Receptor density is higher in the fingertips, increasing sensory acuity",
+      "D": "Fingertip receptors are larger and thus capture more stimulus energy"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "The density of sensory receptors determines acuity — fingertips have a higher density of tactile receptors than the forearm, which is why they can discriminate touch far more precisely.",
+    "distractor_explanations": {
+      "A": "Skin thickness is not the textbook explanation for differential acuity; receptor density is.",
+      "B": "Nerve fibre speed is not the basis for the fingertip/forearm distinction described in the textbook.",
+      "D": "Larger receptors do not confer greater acuity; it is density, not size, that matters here."
+    },
+    "concept_tags": [
+      "receptor density",
+      "sensory acuity",
+      "tactile discrimination"
+    ],
+    "textbook_source": "Section 9-1"
+  },
+  {
+    "question_id": "9-1_T3_03",
+    "chapter": 9,
+    "section_id": "9-1",
+    "section_title": "Nature of Sensation and Perception",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "question": "The Rubin's vase illusion — where the same image is perceived as either a vase or two faces — best illustrates which principle?",
+    "options": {
+      "A": "Sensation is determined entirely by the physical properties of the stimulus",
+      "B": "Perception is a subjective interpretation that goes beyond raw sensory input",
+      "C": "Different sensory modalities compete to produce a unified perception",
+      "D": "Top-down processing is only active when sensation fails"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "The Rubin's vase shows that two different perceptions can arise from identical sensory stimulation — demonstrating that perception is a subjective interpretive process shaped by context, prior experience, and cognitive factors, not just the physical stimulus.",
+    "distractor_explanations": {
+      "A": "If sensation were purely determined by physical properties, the same stimulus could not produce two different percepts.",
+      "C": "The illusion involves a single modality (vision); it is not about competition between modalities.",
+      "D": "Top-down processing is active continuously, not only as a fallback when sensation fails."
+    },
+    "concept_tags": [
+      "perception",
+      "sensation",
+      "perceptual illusion",
+      "top-down processing"
+    ],
+    "textbook_source": "Section 9-1"
+  },
+  {
+    "question_id": "9-2_T1_01",
+    "chapter": 9,
+    "section_id": "9-2",
+    "section_title": "The Visual System's Functional Anatomy",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "question": "Where is the fovea located and what is its primary function?",
+    "options": {
+      "A": "At the optic disc; it is where the optic nerve exits the eye",
+      "B": "At the periphery of the retina; it detects motion in low light",
+      "C": "At the centre of the retina; it is the region of highest visual acuity",
+      "D": "Behind the lens; it focuses light before it reaches the retina"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "The fovea is located at the centre of the retina and contains a high density of cone photoreceptors, making it the region of sharpest, most detailed vision.",
+    "distractor_explanations": {
+      "A": "The optic disc is where the optic nerve exits — it has no photoreceptors and creates the blind spot.",
+      "B": "The periphery of the retina contains more rods and specialises in low-light and motion detection; the fovea is central.",
+      "D": "The lens is a refractive structure; the fovea is a retinal region."
+    },
+    "concept_tags": [
+      "fovea",
+      "retina",
+      "visual acuity",
+      "photoreceptors"
+    ],
+    "textbook_source": "Section 9-2"
+  },
+  {
+    "question_id": "9-2_T2_02",
+    "chapter": 9,
+    "section_id": "9-2",
+    "section_title": "The Visual System's Functional Anatomy",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "question": "What is the functional distinction between the dorsal and ventral visual streams?",
+    "options": {
+      "A": "The dorsal stream processes colour; the ventral stream processes motion",
+      "B": "The dorsal stream (how/where) guides visually directed action; the ventral stream (what) supports object recognition",
+      "C": "The dorsal stream processes conscious vision; the ventral stream processes unconscious vision",
+      "D": "The dorsal stream carries input from rods; the ventral stream carries input from cones"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "The ventral stream (projecting to the temporal lobe) is specialised for object recognition — identifying what something is. The dorsal stream (projecting to the parietal lobe) guides visually directed action — where things are and how to interact with them.",
+    "distractor_explanations": {
+      "A": "Colour is processed in the ventral stream (area V4); motion is processed dorsally (V5/MT) — but the primary distinction is what vs how/where, not colour vs motion alone.",
+      "C": "The conscious/unconscious division does not map cleanly onto dorsal/ventral; patient D.F. showed unconscious dorsal-stream processing despite ventral damage.",
+      "D": "Both streams receive input from both rod and cone pathways; they are not segregated by receptor type."
+    },
+    "concept_tags": [
+      "dorsal stream",
+      "ventral stream",
+      "what pathway",
+      "how pathway",
+      "visual processing"
+    ],
+    "textbook_source": "Section 9-2"
+  },
+  {
+    "question_id": "9-2_T3_03",
+    "chapter": 9,
+    "section_id": "9-2",
+    "section_title": "The Visual System's Functional Anatomy",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "question": "Visual information travels from the retina to the cortex via three routes. Which route is primarily responsible for processing movement, and which subcortical structure does it pass through?",
+    "options": {
+      "A": "Retina → amygdala → prefrontal cortex; processes emotional responses to moving stimuli",
+      "B": "Retina → superior colliculus → thalamus → cortex; processes movement",
+      "C": "Retina → cerebellum → parietal cortex; processes spatial movement for motor control",
+      "D": "Retina → hypothalamus → V1; regulates circadian responses to light movement"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "A second visual route goes from the retina to the superior colliculus, then to the thalamus and cortex. This pathway is involved in the perception of movement, complementing the primary retina → LGN → V1 route.",
+    "distractor_explanations": {
+      "A": "The amygdala is involved in emotional processing of visual stimuli but is not the primary movement route described in the textbook.",
+      "C": "The cerebellum is involved in motor coordination, not in the primary visual movement pathway described here.",
+      "D": "The hypothalamic route (retinohypothalamic tract) regulates circadian rhythms via light, not movement perception."
+    },
+    "concept_tags": [
+      "superior colliculus",
+      "visual pathways",
+      "motion perception",
+      "thalamus"
+    ],
+    "textbook_source": "Section 9-2"
+  },
+  {
+    "question_id": "9-3_T1_01",
+    "chapter": 9,
+    "section_id": "9-3",
+    "section_title": "Location in the Visual World",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "question": "Visual information from the left visual field is processed by which cerebral hemisphere?",
+    "options": {
+      "A": "Left hemisphere",
+      "B": "Right hemisphere",
+      "C": "Both hemispheres equally",
+      "D": "The hemisphere ipsilateral to the dominant eye"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "Input from the left visual field is processed by the right hemisphere. The left half of each retina (which sees the right visual field) projects to the left hemisphere, and the right half of each retina projects to the right hemisphere.",
+    "distractor_explanations": {
+      "A": "The left hemisphere processes the right visual field, not the left.",
+      "C": "Visual field representation is contralateral, not bilateral — left visual field goes exclusively to the right hemisphere.",
+      "D": "Visual field representation is not determined by eye dominance but by contralateral organisation."
+    },
+    "concept_tags": [
+      "visual field",
+      "contralateral processing",
+      "hemispheres",
+      "retina"
+    ],
+    "textbook_source": "Section 9-3"
+  },
+  {
+    "question_id": "9-3_T2_02",
+    "chapter": 9,
+    "section_id": "9-3",
+    "section_title": "Location in the Visual World",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "question": "How does the corpus callosum contribute to visual perception?",
+    "options": {
+      "A": "It carries visual signals from the retina to the lateral geniculate nucleus",
+      "B": "It connects orientation columns in V1 to motion-processing areas in V5",
+      "C": "It binds the left and right visual fields into a single unified perception at the midline",
+      "D": "It transmits colour information between V4 and the temporal lobe"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "Callosal connections between cells that look at adjacent places near the visual field's midline zip the two visual fields together — cells slightly to the left and right of centre have overlapping callosal connections so that the two fields merge into one continuous percept.",
+    "distractor_explanations": {
+      "A": "The retina connects to the LGN via the optic tract, not the corpus callosum.",
+      "B": "Connections between V1 and V5 are within-hemisphere pathways, not callosal.",
+      "D": "Colour processing pathways between V4 and temporal cortex are within-hemisphere; the corpus callosum's visual role is primarily at the midline."
+    },
+    "concept_tags": [
+      "corpus callosum",
+      "visual field",
+      "midline",
+      "hemispheric integration"
+    ],
+    "textbook_source": "Section 9-3"
+  },
+  {
+    "question_id": "9-3_T3_03",
+    "chapter": 9,
+    "section_id": "9-3",
+    "section_title": "Location in the Visual World",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "question": "Jerison's principle of proper mass states that neural tissue dedicated to a function is proportional to that function's processing demands. How does this principle explain the disproportionately large cortical representation of the fovea in V1?",
+    "options": {
+      "A": "The fovea has more photoreceptors per unit area than the periphery, so it generates more action potentials that must be stored",
+      "B": "Foveal vision requires more detailed spatial analysis than peripheral vision, so more cortical neurons are needed to process it",
+      "C": "The fovea processes colour, which requires three times the neural resources of achromatic vision",
+      "D": "The larger cortical area compensates for the fovea's small physical size on the retina"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "Jerison's principle holds that more complex functions require more neural tissue. Foveal vision provides our highest-acuity, most detailed spatial analysis, so a disproportionately large area of V1 is devoted to it — consistent with the greater processing demands of high-resolution central vision.",
+    "distractor_explanations": {
+      "A": "Action potential volume is not stored; the principle refers to processing complexity, not signal volume.",
+      "C": "Colour processing is one function among many; the foveal over-representation reflects overall acuity demands, not only colour.",
+      "D": "Compensating for physical size is not the explanation; the principle is about processing complexity, not size compensation."
+    },
+    "concept_tags": [
+      "proper mass principle",
+      "fovea",
+      "V1",
+      "topographic map",
+      "cortical magnification"
+    ],
+    "textbook_source": "Section 9-3"
+  },
+  {
+    "question_id": "9-4_T1_01",
+    "chapter": 9,
+    "section_id": "9-4",
+    "section_title": "Neuronal Activity",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "question": "What stimulus do simple cells in primary visual cortex (V1) respond to most strongly?",
+    "options": {
+      "A": "Spots of light falling anywhere in the visual field",
+      "B": "Complex three-dimensional objects such as faces",
+      "C": "Bars of light in a specific orientation",
+      "D": "Colour contrasts between adjacent visual areas"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "Simple cells in V1 are orientation detectors — they respond maximally to bars of light at a particular angle. Unlike retinal ganglion cells that respond to spots, simple cells have elongated rectangular receptive fields tuned to specific line orientations.",
+    "distractor_explanations": {
+      "A": "Spots of light are the optimal stimulus for retinal ganglion cells, not V1 simple cells.",
+      "B": "Complex face-selective responses are found in the inferior temporal cortex (area TE), not V1 simple cells.",
+      "D": "Colour processing involves opponent-process cells; simple cells are primarily orientation-selective, not colour-contrast detectors."
+    },
+    "concept_tags": [
+      "simple cells",
+      "V1",
+      "orientation detectors",
+      "visual cortex"
+    ],
+    "textbook_source": "Section 9-4"
+  },
+  {
+    "question_id": "9-4_T2_02",
+    "chapter": 9,
+    "section_id": "9-4",
+    "section_title": "Neuronal Activity",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "question": "Retinal ganglion cells respond best to spots of light, yet V1 cells respond best to bars of light. How does this transformation occur?",
+    "options": {
+      "A": "The LGN converts spot responses into bar responses through lateral inhibition",
+      "B": "A V1 cell receives input from a row of ganglion cells aligned in a particular orientation — a bar activating that row maximally excites the V1 cell",
+      "C": "V1 cells ignore ganglion cell input and instead respond directly to contrast edges in the image",
+      "D": "The transformation occurs in the corpus callosum, which sums input from both hemispheres"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "A V1 simple cell receives convergent input from a row of retinal ganglion cells that happen to be aligned. A bar of light oriented to match that row activates all those ganglion cells simultaneously, maximally exciting the V1 cell — transforming spot responses into orientation-selective bar responses.",
+    "distractor_explanations": {
+      "A": "The LGN maintains the centre-surround receptive field structure; the transformation to bar selectivity happens in V1.",
+      "C": "V1 cells do respond to edges and bars but through convergent ganglion cell input, not by bypassing it.",
+      "D": "The corpus callosum connects the two hemispheres; it is not involved in the ganglion-to-V1 receptive field transformation."
+    },
+    "concept_tags": [
+      "V1",
+      "retinal ganglion cells",
+      "orientation selectivity",
+      "convergence",
+      "simple cells"
+    ],
+    "textbook_source": "Section 9-4"
+  },
+  {
+    "question_id": "9-4_T3_03",
+    "chapter": 9,
+    "section_id": "9-4",
+    "section_title": "Neuronal Activity",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "question": "Neurons in the inferior temporal cortex (area TE) respond best to complex stimuli like faces, and their preferred stimuli change with training. What does this neuroplasticity reveal about the organisation of the visual system?",
+    "options": {
+      "A": "Area TE replaces damaged V1 neurons when the primary visual cortex is injured",
+      "B": "Visual preferences in TE are genetically hardwired and merely revealed by training",
+      "C": "Unlike V1 whose stimulus preferences are fixed, TE is experience-dependent, allowing adaptation to the individual's visual environment",
+      "D": "TE neurons fire to any visual stimulus once sufficiently trained, losing their selectivity"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "The textbook contrasts V1 (where orientation preferences are genetically programmed and unchanged by experience) with area TE (where neurons modify their preferred stimuli through training). This experience-dependence allows TE to adapt to an individual's unique visual world — including stimuli that never existed during human evolution.",
+    "distractor_explanations": {
+      "A": "Area TE does not replace V1 neurons; they serve distinct functions in a hierarchical system.",
+      "B": "The textbook explicitly states TE preferences are not genetically fixed but subject to experience.",
+      "D": "Training sharpens selectivity for trained stimuli; it does not eliminate selectivity."
+    },
+    "concept_tags": [
+      "area TE",
+      "temporal cortex",
+      "neuroplasticity",
+      "experience-dependence",
+      "visual learning"
+    ],
+    "textbook_source": "Section 9-4"
+  },
+  {
+    "question_id": "9-5_T1_01",
+    "chapter": 9,
+    "section_id": "9-5",
+    "section_title": "The Visual Brain in Action",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "question": "What is visual-form agnosia?",
+    "options": {
+      "A": "Blindness restricted to one side of the visual field after V1 damage",
+      "B": "The inability to perceive motion despite otherwise normal vision",
+      "C": "The inability to recognise objects by sight, including estimating their size and orientation",
+      "D": "Loss of colour vision due to damage to cortical area V4"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "Visual-form agnosia, illustrated by patient D.F., is the inability to recognise objects visually or to estimate their size and orientation — caused by damage to the ventral (what) visual stream in the lateral occipital region.",
+    "distractor_explanations": {
+      "A": "Hemianopia is blindness of one visual field half; it results from V1 or optic tract damage, not the ventral stream.",
+      "B": "Inability to perceive motion (akinetopsia) results from damage to area V5/MT, not the ventral object-recognition pathway.",
+      "D": "Achromatopsia (colour agnosia) is a separate condition caused by V4 damage, not visual-form agnosia."
+    },
+    "concept_tags": [
+      "visual-form agnosia",
+      "ventral stream",
+      "object recognition",
+      "D.F."
+    ],
+    "textbook_source": "Section 9-5"
+  },
+  {
+    "question_id": "9-5_T2_02",
+    "chapter": 9,
+    "section_id": "9-5",
+    "section_title": "The Visual Brain in Action",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "question": "Patient D.F. had visual-form agnosia — she could not identify objects — yet she could correctly shape her hand to grasp them. What does this dissociation demonstrate?",
+    "options": {
+      "A": "The brain has separate systems for visual object recognition (ventral stream) and visually guided action (dorsal stream)",
+      "B": "The motor system can compensate for visual deficits by using tactile feedback alone",
+      "C": "Visual-form agnosia only affects conscious recognition, so unconscious motor programmes remain intact",
+      "D": "Grasping is a reflex that bypasses cortical visual processing entirely"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "D.F.'s case is a classic double dissociation: her damaged ventral stream prevented object recognition, but her intact dorsal stream continued to support visually guided grasping. This demonstrates that the two streams operate independently for different aspects of vision.",
+    "distractor_explanations": {
+      "C": "While there is a conscious/unconscious element, the textbook explanation emphasises the structural separation of the two streams, not merely consciousness.",
+      "D": "Grasping requires cortical processing through the dorsal stream; it is not a subcortical reflex.",
+      "B": "D.F. used visual information for grasping, not just tactile feedback — her dorsal stream processed structural features of objects for action guidance."
+    },
+    "concept_tags": [
+      "D.F.",
+      "ventral stream",
+      "dorsal stream",
+      "double dissociation",
+      "visual agnosia"
+    ],
+    "textbook_source": "Section 9-5"
+  },
+  {
+    "question_id": "9-5_T3_03",
+    "chapter": 9,
+    "section_id": "9-5",
+    "section_title": "The Visual Brain in Action",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "question": "Patients D.F. (ventral stream damage) and R.V. (dorsal stream damage) show opposite visual deficits. D.F. cannot recognise objects but can grasp them correctly; R.V. can recognise objects but cannot guide her hand to grasp them. What does this double dissociation establish?",
+    "options": {
+      "A": "The ventral and dorsal streams are functionally independent systems dedicated to different aspects of visual processing",
+      "B": "Vision is processed serially — the dorsal stream depends on output from the ventral stream",
+      "C": "Object recognition and grasping share the same cortical substrate but require different amounts of processing",
+      "D": "Damage to either stream inevitably causes complete blindness if sufficiently extensive"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "The D.F./R.V. double dissociation provides the strongest evidence that the ventral (what) and dorsal (how/where) streams are functionally independent: each can be selectively damaged, leaving the other intact. This rules out a serial model and confirms parallel, independent processing streams.",
+    "distractor_explanations": {
+      "C": "The dissociation shows different substrates, not the same substrate requiring different amounts of processing.",
+      "D": "Both patients had substantial visual function preserved in the undamaged stream, contradicting the idea that extensive damage in one stream causes total blindness.",
+      "B": "A serial model predicts that dorsal stream damage should also impair ventral stream functions — this is not the case with R.V., whose object recognition was normal."
+    },
+    "concept_tags": [
+      "double dissociation",
+      "D.F.",
+      "R.V.",
+      "ventral stream",
+      "dorsal stream",
+      "optic ataxia"
+    ],
+    "textbook_source": "Section 9-5"
+  },
+  {
+    "question_id": "9-6_T1_01",
+    "chapter": 9,
+    "section_id": "9-6",
+    "section_title": "Plasticity in the Visual Pathways",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "question": "What does plasticity in the visual system refer to?",
+    "options": {
+      "A": "The capacity of visual pathways to reorganise or adapt in response to experience or injury",
+      "B": "The ability of the lens to change shape and focus light at different distances",
+      "C": "The flexibility of eye movements to track fast-moving objects",
+      "D": "The brain's ability to process visual information faster with practice"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "Visual plasticity refers to the capacity of neural circuits in the visual system to reorganise — modifying their structure or function — in response to experience, learning, or damage.",
+    "distractor_explanations": {
+      "C": "Eye movement tracking is a motor function; plasticity refers to neural reorganisation.",
+      "D": "Faster processing with practice is a behavioural outcome; plasticity specifically refers to the underlying neural reorganisation.",
+      "B": "Lens accommodation is an optical, not neural, process and is not what the textbook means by visual plasticity."
+    },
+    "concept_tags": [
+      "visual plasticity",
+      "neural reorganisation",
+      "experience-dependence"
+    ],
+    "textbook_source": "Section 9-6"
+  },
+  {
+    "question_id": "9-6_T2_02",
+    "chapter": 9,
+    "section_id": "9-6",
+    "section_title": "Plasticity in the Visual Pathways",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "question": "How does experience-dependent plasticity in area TE differ from the fixed organisation of area V1?",
+    "options": {
+      "A": "V1 stimulus preferences are genetically programmed and unchanged by experience; TE neuron preferences adapt to the individual's visual history",
+      "B": "V1 is plastic throughout life; TE is fixed after the sensitive period",
+      "C": "Both areas show equal plasticity, but TE adapts faster due to its proximity to the hippocampus",
+      "D": "TE is plastic only in non-human primates; the human TE is fixed like V1"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "The textbook explicitly contrasts V1 (where preferred stimuli are genetically determined and not modified by experience) with area TE (where preferred stimuli are modified by training and experience), showing a gradient of plasticity along the ventral visual hierarchy.",
+    "distractor_explanations": {
+      "C": "The speed of plasticity is not the key distinction; anatomical proximity to the hippocampus is not the explanation given.",
+      "D": "The textbook presents TE plasticity as a general property of the visual system in primates, including humans.",
+      "B": "This is the reverse of the textbook account — V1 is fixed and TE is plastic, not the other way around."
+    },
+    "concept_tags": [
+      "area TE",
+      "V1",
+      "plasticity",
+      "experience-dependence",
+      "visual hierarchy"
+    ],
+    "textbook_source": "Section 9-6"
+  },
+  {
+    "question_id": "9-6_T3_03",
+    "chapter": 9,
+    "section_id": "9-6",
+    "section_title": "Plasticity in the Visual Pathways",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "question": "Tanaka's research showed that monkeys trained to discriminate particular shapes develop temporal lobe neurons tuned to those shapes. Why does the textbook argue that this evolved plasticity is adaptive for survival?",
+    "options": {
+      "A": "It ensures the visual system can identify stimuli that never existed during evolution, and can adapt as the animal moves through changing visual environments",
+      "B": "It allows the brain to reduce energy consumption by tuning out irrelevant stimuli",
+      "C": "It compensates for the loss of V1 neurons during ageing by recruiting TE neurons",
+      "D": "It enables the motor system to bypass the visual cortex when reacting to familiar objects"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "The textbook argues that experience-dependent plasticity in TE evolved because visual environments change — moving from forest to plain to city demands different recognition abilities. Plasticity allows the system to adapt. It also ensures the visual system can identify stimuli that never existed when the human brain evolved, such as written words or modern technology.",
+    "distractor_explanations": {
+      "C": "TE plasticity is not a compensatory mechanism for V1 ageing; it is a fundamental property of normal visual development.",
+      "D": "Motor bypass is not part of the textbook's explanation of TE plasticity's adaptive value.",
+      "B": "Energy reduction is not the adaptive explanation offered; the textbook focuses on environmental adaptability and evolutionary novel stimuli."
+    },
+    "concept_tags": [
+      "TE plasticity",
+      "evolutionary adaptation",
+      "Tanaka",
+      "visual environment",
+      "experience-dependence"
+    ],
+    "textbook_source": "Section 9-6"
+  },
+  {
+    "question_id": "9-1_B01",
+    "chapter": 9,
+    "section_id": "9-1",
+    "section_title": "Nature of Sensation and Perception",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "Synesthesia — hearing a piece of music and 'feeling' it physically — is mentioned in Section 9-1 as an example of which phenomenon?",
+    "options": {
+      "A": "Perceptual constancy across different sensory contexts",
+      "B": "Heightened sensory receptor sensitivity in musical individuals",
+      "C": "The mixing or crossing of sensory modalities",
+      "D": "The brain compensating for a missing sensory modality"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "Synesthesia illustrates that the distinctions between sensory systems are not always clear — some people experience one sense (e.g. hearing) in terms of another (e.g. touch), demonstrating cross-modal mixing of sensory representations.",
+    "distractor_explanations": {
+      "A": "Perceptual constancy refers to perceiving objects as stable despite changing sensory input; synesthesia is about cross-modal mixing.",
+      "D": "Synesthesia occurs in people with all senses intact; it is not a compensatory mechanism.",
+      "B": "Synesthesia is not about heightened receptor sensitivity; it is a neural phenomenon involving cross-activation of sensory cortices."
+    },
+    "concept_tags": [
+      "synesthesia",
+      "sensory modalities",
+      "cross-modal perception"
+    ],
+    "textbook_source": "Section 9-1"
+  },
+  {
+    "question_id": "9-2_B01",
+    "chapter": 9,
+    "section_id": "9-2",
+    "section_title": "The Visual System's Functional Anatomy",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "Facial agnosia (prosopagnosia) results from damage to which part of the visual system?",
+    "options": {
+      "A": "The optic chiasm, disrupting binocular input",
+      "B": "Area V1, preventing any form of visual object processing",
+      "C": "The dorsal stream's parietal connection for spatial processing",
+      "D": "The temporal lobe region of the ventral visual stream"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "Facial agnosia results from damage to a temporal lobe area within the ventral (what) stream — the region specialised for recognising complex visual stimuli such as faces.",
+    "distractor_explanations": {
+      "A": "Optic chiasm damage produces visual field deficits (hemianopia), not selective face recognition impairment.",
+      "C": "The dorsal stream processes location and action guidance; face recognition is a ventral stream function.",
+      "B": "V1 damage causes broader visual deficits; facial agnosia is a selective higher-order recognition impairment."
+    },
+    "concept_tags": [
+      "prosopagnosia",
+      "facial agnosia",
+      "ventral stream",
+      "temporal lobe"
+    ],
+    "textbook_source": "Section 9-2"
+  },
+  {
+    "question_id": "9-2_B02",
+    "chapter": 9,
+    "section_id": "9-2",
+    "section_title": "The Visual System's Functional Anatomy",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "Rods and cones differ in their distribution and function. Which statement correctly describes their roles?",
+    "options": {
+      "A": "Rods are concentrated in the fovea and support colour vision in bright light; cones are distributed in the periphery and support night vision",
+      "B": "Rods process the left visual field and cones process the right visual field",
+      "C": "Both rods and cones are evenly distributed across the retina but respond to different wavelengths",
+      "D": "Cones are concentrated in the fovea and support colour and detail vision; rods are distributed more peripherally and support low-light vision"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "Cones are densely packed in the fovea and are responsible for colour and high-acuity vision in bright light. Rods are more numerous in the peripheral retina and are highly sensitive to light, enabling vision in low-light conditions.",
+    "distractor_explanations": {
+      "A": "This reverses the roles — rods are peripheral and support night vision; cones are foveal and support colour/detail vision.",
+      "C": "Rods and cones are not evenly distributed; the fovea has almost exclusively cones.",
+      "B": "Visual field processing is determined by which half of the retina is stimulated, not by rod vs cone type."
+    },
+    "concept_tags": [
+      "rods",
+      "cones",
+      "fovea",
+      "photoreceptors",
+      "night vision"
+    ],
+    "textbook_source": "Section 9-2"
+  },
+  {
+    "question_id": "9-3_B01",
+    "chapter": 9,
+    "section_id": "9-3",
+    "section_title": "Location in the Visual World",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "What is a scotoma, and why are people often unaware of them?",
+    "options": {
+      "A": "A small blind spot in the visual field; awareness is prevented by constant eye movements and pattern completion",
+      "B": "A region of enhanced visual sensitivity; awareness is prevented because the brain suppresses over-stimulation",
+      "C": "A complete loss of one visual field half; awareness is prevented because the brain reinterprets the missing field as darkness",
+      "D": "A distortion of colour perception; awareness is prevented because colour processing is unconscious"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "A scotoma is a small blind spot in the visual field caused by localised V1 damage. People are often unaware of scotomas because constant involuntary eye movements (nystagmus) move the scotoma around the visual field, and the brain fills in the gap through pattern completion.",
+    "distractor_explanations": {
+      "B": "A scotoma is a blind spot, not a region of enhanced sensitivity.",
+      "C": "Hemianopia is the complete loss of one visual field half; a scotoma is a smaller, localised blind spot.",
+      "D": "Scotomas involve absent vision in a region, not colour distortion."
+    },
+    "concept_tags": [
+      "scotoma",
+      "V1",
+      "nystagmus",
+      "pattern completion",
+      "visual field"
+    ],
+    "textbook_source": "Section 9-3 / 9-5"
+  },
+  {
+    "question_id": "9-4_B01",
+    "chapter": 9,
+    "section_id": "9-4",
+    "section_title": "Neuronal Activity",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "On-centre retinal ganglion cells (RGCs) respond to light as follows: light in the centre of the receptive field excites the cell, while light in the surrounding area inhibits it. What is the functional significance of this on-centre/off-surround arrangement?",
+    "options": {
+      "A": "It allows RGCs to detect absolute light levels across the entire retina",
+      "B": "It prevents simultaneous activation of adjacent RGCs to avoid signal overlap",
+      "C": "It enables RGCs to code colour by comparing wavelengths in the centre and surround",
+      "D": "It makes RGCs especially responsive to luminance contrast — differences in light at the boundaries of objects — thereby detecting edges"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "The on-centre/off-surround arrangement makes RGCs sensitive to luminance contrast — the difference in light between adjacent retinal regions. Cells at light-dark edges respond most strongly, meaning RGCs effectively signal edges, and edges are the basis of shape perception.",
+    "distractor_explanations": {
+      "A": "The centre-surround arrangement is specifically NOT good at detecting uniform illumination; cells in uniform light regions fire weakly.",
+      "C": "Colour coding involves wavelength-sensitive opponent-process cells, not the centre-surround luminance contrast mechanism.",
+      "B": "Overlapping receptive fields are normal and useful; the centre-surround is not an anti-overlap mechanism."
+    },
+    "concept_tags": [
+      "on-centre cells",
+      "luminance contrast",
+      "edges",
+      "retinal ganglion cells",
+      "receptive field"
+    ],
+    "textbook_source": "Section 9-4"
+  },
+  {
+    "question_id": "9-4_B02",
+    "chapter": 9,
+    "section_id": "9-4",
+    "section_title": "Neuronal Activity",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "Cortical columns in V1 contain neurons with similar orientation preferences. What does this columnar organisation suggest about how the visual cortex processes information?",
+    "options": {
+      "A": "Each column processes a different colour, enabling the full spectrum to be represented",
+      "B": "Each column corresponds to one eye's input, separating left and right eye information at all stages",
+      "C": "Columns are isolated processing units with no communication between them",
+      "D": "Neurons with similar functional properties are grouped together, with adjacent columns representing systematically different orientations"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "V1 orientation columns contain neurons responsive to the same line orientation, and adjacent columns contain cells tuned to slightly different orientations. This systematic columnar organisation allows the cortex to efficiently represent the full range of orientations across a small cortical surface.",
+    "distractor_explanations": {
+      "A": "Colour is processed in separate colour-selective neurons; orientation columns are not the basis of colour representation.",
+      "C": "Columns communicate extensively within V1 and with other areas; isolation is not a feature of columnar organisation.",
+      "B": "Ocular dominance columns (separating left and right eye input) are a different type of column from orientation columns, though both exist in V1."
+    },
+    "concept_tags": [
+      "cortical columns",
+      "orientation columns",
+      "V1",
+      "visual cortex organisation"
+    ],
+    "textbook_source": "Section 9-4"
+  },
+  {
+    "question_id": "9-5_B01",
+    "chapter": 9,
+    "section_id": "9-5",
+    "section_title": "The Visual Brain in Action",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "Patient L.M. lost the ability to perceive motion after a bilateral lesion presumed to be in area V5. She could read, recognise objects, and had normal form vision — until objects moved. What does this selective deficit tell us?",
+    "options": {
+      "A": "Motion perception and form perception are processed by the same neural substrate but at different speeds",
+      "B": "Motion perception requires binocular input that was disrupted by L.M.'s bilateral lesion",
+      "C": "The inability to perceive motion results from damage to the primary visual cortex V1",
+      "D": "Motion perception is a separate, specialised function carried out in area V5, dissociable from form and object recognition"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "L.M.'s case demonstrates that motion perception is a distinct specialised function of area V5 (MT). Her intact form vision and object recognition despite complete motion blindness (akinetopsia) is a clear dissociation showing that motion and form are processed by separate cortical areas.",
+    "distractor_explanations": {
+      "A": "If motion and form used the same substrate, damaging it would impair both — L.M.'s preserved form vision rules this out.",
+      "C": "V1 damage causes broader visual deficits including impaired form vision; L.M.'s form vision was normal, pointing to a higher area (V5).",
+      "B": "Motion perception relies on specialised cortical circuits, not simply binocular input; L.M.'s deficit was cortical."
+    },
+    "concept_tags": [
+      "akinetopsia",
+      "area V5",
+      "motion perception",
+      "L.M.",
+      "dissociation"
+    ],
+    "textbook_source": "Section 9-5"
+  },
+  {
+    "question_id": "9-6_B01",
+    "chapter": 9,
+    "section_id": "9-6",
+    "section_title": "Plasticity in the Visual Pathways",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "The textbook notes that V1 stimulus preferences are genetically programmed, while TE preferences are shaped by experience. What is the significance of having both fixed and plastic regions within the same visual hierarchy?",
+    "options": {
+      "A": "Fixed V1 ensures basic feature detection is reliable and consistent; plastic TE allows the system to adapt to an individual's unique visual experience",
+      "B": "Fixed V1 prevents any learning in the visual system; plastic TE compensates by memorising entire scenes",
+      "C": "Both regions being fixed would be more efficient, so the TE's plasticity represents an evolutionary mistake",
+      "D": "Fixed V1 processes daytime vision; plastic TE processes night vision learned through experience"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "Having fixed properties in V1 ensures that fundamental visual features (orientation, contrast edges) are reliably detected regardless of experience, providing a stable foundation. Plasticity in TE then builds upon this stable base to enable recognition of the specific objects and faces most relevant to the individual's environment.",
+    "distractor_explanations": {
+      "B": "Fixed V1 does not prevent learning; it provides a consistent base for learning, which then occurs in plastic downstream areas like TE.",
+      "C": "TE plasticity is not an evolutionary mistake — the textbook argues it confers adaptive advantages.",
+      "D": "The fixed/plastic distinction does not correspond to day/night vision; it reflects a functional hierarchy from basic features to complex recognition."
+    },
+    "concept_tags": [
+      "V1",
+      "area TE",
+      "fixed vs plastic",
+      "visual hierarchy",
+      "evolutionary adaptation"
+    ],
+    "textbook_source": "Section 9-6"
   }
 ]
