@@ -323,11 +323,11 @@
       "C": "It disrupts brain development and extends the period for developmental plasticity",
       "D": "It has no lasting effect because the developing brain is especially resilient to environmental stress"
     },
-    "correct_answer": "C",
-    "correct_explanation": "According to the textbook, early stress can disrupt normal brain development AND paradoxically extend the period during which the brain remains plastic — a counterintuitive finding.",
+    "correct_answer": "B",
+    "correct_explanation": "According to the textbook, early-life chronic stress has two specific effects: it disrupts normal brain development AND shortens the period for developmental plasticity. This contrasts with cognitive enrichment, which slows maturation and extends plasticity. Tooley and colleagues' integrative theory explains that negative, repetitive experiences encourage faster maturation and restrict plasticity, whereas positive experiences delay maturation and enhance it.",
     "distractor_explanations": {
-      "A": "Stress disrupts rather than accelerates neurogenesis; and while the critical period is extended, not merely continued, 'extends' is the correct description.",
-      "B": "The period of developmental plasticity is extended, not shortened — this is the key counterintuitive point the textbook highlights.",
+      "A": "Stress does not accelerate neurogenesis; it disrupts brain development. The critical period is shortened, not extended.",
+      "C": "The period of developmental plasticity is shortened by stress, not extended — extending plasticity is associated with cognitive enrichment, not stress.",
       "D": "The textbook explicitly describes lasting structural and functional consequences of early-life stress on the developing brain."
     },
     "concept_tags": [
