@@ -3287,5 +3287,686 @@
       "evolutionary adaptation"
     ],
     "textbook_source": "Section 9-6"
+  },
+  {
+    "question_id": "80-2_T1_01",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "is_bonus": false,
+    "question": "The textbook lists seven stages of brain development in a specific order (Table 8-1). Which sequence correctly represents the first four stages?",
+    "options": {
+      "A": "Cell birth (neurogenesis) → neural migration → cell differentiation → neural maturation",
+      "B": "Neural migration → neurogenesis → myelination → synaptogenesis",
+      "C": "Cell differentiation → neurogenesis → neural maturation → cell death",
+      "D": "Neurogenesis → synaptogenesis → neural migration → myelination"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "Table 8-1 lists the seven stages in order: (1) cell birth/neurogenesis, (2) neural migration, (3) cell differentiation, (4) neural maturation, (5) synaptogenesis, (6) cell death and synaptic pruning, (7) myelogenesis. The first four stages proceed in this sequence.",
+    "distractor_explanations": {
+      "B": "Migration does not precede neurogenesis — cells must be born before they can migrate. Myelination is the final stage, not the third.",
+      "C": "Differentiation cannot occur before the cells are born; neurogenesis is always the first stage.",
+      "D": "Synaptogenesis (stage 5) occurs well after migration and differentiation, not immediately after cell birth."
+    },
+    "concept_tags": [
+      "brain development stages",
+      "neurogenesis",
+      "neural migration",
+      "cell differentiation",
+      "myelination"
+    ],
+    "textbook_source": "Section 8-2, Table 8-1"
+  },
+  {
+    "question_id": "80-2_T1_02",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "is_bonus": false,
+    "question": "During cortical development, migrating neurons follow a specific type of cell to reach their correct destination. What are these guide cells called?",
+    "options": {
+      "A": "Schwann cells",
+      "B": "Radial glial cells",
+      "C": "Astrocytes",
+      "D": "Microglia"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "Radial glial cells extend fibres from the subventricular zone all the way to the cortical surface, forming a scaffold that migrating neurons follow to reach the correct cortical location (Rakic's work).",
+    "distractor_explanations": {
+      "A": "Schwann cells myelinate peripheral nervous system axons; they play no role in cortical neuronal migration.",
+      "C": "Astrocytes have many support functions in the mature brain but do not serve as migration guides during cortical development.",
+      "D": "Microglia are the brain's immune cells; they are not involved in guiding neuronal migration."
+    },
+    "concept_tags": [
+      "radial glial cells",
+      "neural migration",
+      "cortical development",
+      "Rakic"
+    ],
+    "textbook_source": "Section 8-2"
+  },
+  {
+    "question_id": "80-2_T1_03",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "is_bonus": false,
+    "question": "According to the textbook, by approximately which gestational age is neurogenesis in the human cerebral cortex largely complete?",
+    "options": {
+      "A": "15 weeks",
+      "B": "20 weeks",
+      "C": "25 weeks",
+      "D": "At birth (40 weeks)"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "The textbook states that neurogenesis is largely complete after about 25 weeks' gestation, although some growth continues until about 5 years of age. The hippocampus is a notable exception, continuing to generate new neurons throughout life.",
+    "distractor_explanations": {
+      "A": "15 weeks is too early — the cortex is still in the early phases of neurogenesis at this point.",
+      "B": "20 weeks is close but still before the textbook's stated completion point of 25 weeks.",
+      "D": "Neurogenesis is largely complete well before birth; waiting until birth would leave insufficient time for the subsequent stages of migration, differentiation, and maturation."
+    },
+    "concept_tags": [
+      "neurogenesis",
+      "prenatal development",
+      "cerebral cortex",
+      "gestational age"
+    ],
+    "textbook_source": "Section 8-2, Figure 8-9"
+  },
+  {
+    "question_id": "80-2_T2_01",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": false,
+    "question": "The textbook describes a cellular hierarchy leading from the earliest precursors to mature neurons. Which sequence correctly traces this pathway from earliest to most mature?",
+    "options": {
+      "A": "Progenitor cells → neural stem cells → neuroblasts → neurons",
+      "B": "Neural stem cells → neuroblasts → progenitor cells → neurons",
+      "C": "Glioblasts → progenitor cells → neural stem cells → neurons",
+      "D": "Neural stem cells → progenitor cells → neuroblasts → neurons"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "Neural stem cells divide to produce progenitor cells (also called precursor cells), which then produce neuroblasts. Neuroblasts finally mature into neurons. Neural stem cells are described as multipotent — they can give rise to all specialised cell types in the CNS.",
+    "distractor_explanations": {
+      "A": "Progenitor cells are produced by stem cells, not the other way around; the hierarchy cannot run in reverse.",
+      "B": "Neuroblasts are produced by progenitor cells, not directly by stem cells, and progenitor cells come after stem cells, not after neuroblasts.",
+      "C": "Glioblasts produce glial cells, not neural stem cells; the hierarchy starts with stem cells, not glioblasts."
+    },
+    "concept_tags": [
+      "neural stem cells",
+      "progenitor cells",
+      "neuroblasts",
+      "cell differentiation",
+      "neurogenesis"
+    ],
+    "textbook_source": "Section 8-2, Figure 8-8"
+  },
+  {
+    "question_id": "80-2_T2_02",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": false,
+    "question": "The textbook states that cortical layers develop 'from the inside out.' What does this mean for neurons that arrive later in cortical development?",
+    "options": {
+      "A": "The innermost cortical layers form first; later-arriving neurons must migrate through the earlier layers to reach progressively more exterior positions",
+      "B": "The outermost layer forms first; later neurons attach to it and pull the developing cortex inward",
+      "C": "All cortical layers form simultaneously; 'inside out' refers to the direction of myelination, not cell migration",
+      "D": "The innermost layer forms last, as later-arriving neurons compress the outer layers inward to make room"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "Cortical layers develop inside out: layer VI neurons arrive first and take the innermost position, then layers V, IV, III, II form in succession. Each new wave of neurons must pass through the already-established inner layers to reach their more exterior destination — analogous to passing through lower floors to build higher ones.",
+    "distractor_explanations": {
+      "B": "The process is the reverse — inner layers form first, not outer ones.",
+      "C": "Inside-out refers specifically to the sequence of cell migration, not to myelination.",
+      "D": "Later neurons move outward through existing layers, not inward; the innermost layer is the first to form, not the last."
+    },
+    "concept_tags": [
+      "cortical layers",
+      "inside-out development",
+      "neural migration",
+      "Rakic",
+      "cortical organisation"
+    ],
+    "textbook_source": "Section 8-2"
+  },
+  {
+    "question_id": "80-2_T2_03",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": false,
+    "question": "The textbook describes DNA methylation as a common epigenetic mechanism active during brain development. What is its effect on gene expression?",
+    "options": {
+      "A": "It activates gene expression by adding methyl groups to histone proteins around the target gene",
+      "B": "It amplifies mRNA production by marking cytosine nucleotides, increasing the rate of transcription",
+      "C": "It suppresses gene expression by attaching a methyl group to the cytosine nucleotide next to guanine on the DNA strand",
+      "D": "It has no direct effect on transcription; it only affects protein folding after translation is complete"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "DNA methylation suppresses gene expression: a methyl group (CH3) attaches to cytosine lying next to guanine in the DNA sequence. The textbook notes, for example, that prenatal stress can reduce methylation by 10%, resulting in 2000 more genes being expressed in stressed infants compared to unstressed ones.",
+    "distractor_explanations": {
+      "A": "Histone modification is a separate epigenetic mechanism; DNA methylation acts on cytosine nucleotides directly, not on histones.",
+      "B": "Methylation suppresses transcription, not amplifies it; the direction of the effect is the opposite.",
+      "D": "DNA methylation directly alters transcription of the gene; it is not limited to post-translational effects."
+    },
+    "concept_tags": [
+      "DNA methylation",
+      "epigenetics",
+      "gene expression",
+      "prenatal stress",
+      "cytosine"
+    ],
+    "textbook_source": "Section 8-2"
+  },
+  {
+    "question_id": "80-2_T3_01",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "is_bonus": false,
+    "question": "The hippocampus is described as an important exception to the general pattern of neurogenesis in the brain. What makes it exceptional, and why is this functionally significant?",
+    "options": {
+      "A": "The hippocampus completes neurogenesis earlier than all other regions, making it more vulnerable to prenatal injury",
+      "B": "Neurogenesis continues in the hippocampus throughout life — this has implications for memory formation and for potential recovery from neurological damage",
+      "C": "The hippocampus generates only glial cells after birth, insulating its neural circuits from environmental disruption",
+      "D": "The hippocampus lacks neural stem cells entirely, making it uniquely resistant to neurodegenerative disease"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "Unlike most brain regions where neurogenesis is largely complete by 25 weeks' gestation, the hippocampus continues generating new neurons throughout life. This is functionally significant because the hippocampus is critical for memory, and lifelong neurogenesis there may support its memory functions and offers hope for managing neurological disease through stimulating new neuron production.",
+    "distractor_explanations": {
+      "A": "The hippocampus is exceptional for continuing neurogenesis, not for completing it early; and its ongoing neurogenesis relates to memory, not to greater vulnerability.",
+      "C": "The hippocampus continues producing neurons (neuroblasts), not just glial cells; ongoing neurogenesis is the relevant point.",
+      "D": "The opposite is true: the hippocampus retains neural stem cells throughout life, which is precisely what makes lifelong neurogenesis possible there."
+    },
+    "concept_tags": [
+      "hippocampus",
+      "neurogenesis",
+      "adult neurogenesis",
+      "memory",
+      "neural stem cells"
+    ],
+    "textbook_source": "Section 8-2"
+  },
+  {
+    "question_id": "80-2_T3_02",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "is_bonus": false,
+    "question": "The textbook describes how epidermal growth factor (EGF) and basic fibroblast growth factor (bFGF) coordinate successive steps in neural development. What is the correct relationship between these two factors?",
+    "options": {
+      "A": "EGF stimulates neural stem cells to produce progenitor cells; bFGF then stimulates those progenitor cells to produce neuroblasts",
+      "B": "EGF triggers apoptosis of excess progenitor cells; bFGF promotes the survival of the remaining neuroblasts",
+      "C": "bFGF stimulates stem cell proliferation first; EGF then drives differentiation of progenitor cells into neuroblasts",
+      "D": "Both EGF and bFGF act on glioblasts, directing them to become either astrocytes or oligodendrocytes respectively"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "EGF, when added to stem cell cultures, stimulates production of progenitor cells. bFGF then stimulates those progenitor cells to produce neuroblasts. These factors act in sequence, each unlocking the next step in the developmental hierarchy — illustrating how chemical signals coordinate the progressive differentiation of neural cells.",
+    "distractor_explanations": {
+      "B": "Neither EGF nor bFGF is described as a pro-apoptotic factor; both promote cell production rather than cell death.",
+      "C": "The textbook describes EGF acting first on stem cells, not bFGF; the sequence in the textbook is EGF then bFGF.",
+      "D": "EGF and bFGF act on stem cells and progenitor cells in the neuronal lineage, not on glioblasts."
+    },
+    "concept_tags": [
+      "neurotrophic factors",
+      "EGF",
+      "bFGF",
+      "progenitor cells",
+      "neuroblasts",
+      "cell differentiation"
+    ],
+    "textbook_source": "Section 8-2"
+  },
+  {
+    "question_id": "80-2_T3_03",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "is_bonus": false,
+    "question": "The textbook states that the fetal brain is more vulnerable to injury during later developmental stages than during early neurogenesis. What explanation does the textbook offer for this?",
+    "options": {
+      "A": "Later-stage neurons are larger and therefore more physically susceptible to trauma and toxic chemicals",
+      "B": "The blood-brain barrier is not yet formed during later stages, allowing toxins to cross freely into the developing brain",
+      "C": "Later-stage neurons are fully myelinated and therefore cannot regenerate their axons after injury",
+      "D": "Once neurogenesis has slowed, it is very difficult to restart, so neurons lost during migration or differentiation cannot easily be replaced"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "During active neurogenesis, if neurons are lost, more can be generated to compensate. Once neurogenesis has largely ceased (after ~25 weeks), this compensatory capacity is greatly reduced — so injuries during the later stages of migration or differentiation have more lasting consequences because replacement neurons cannot readily be produced.",
+    "distractor_explanations": {
+      "A": "Cell size is not the textbook's explanation; the key factor is the capacity for neurogenesis to replace lost cells.",
+      "B": "While blood-brain barrier development is relevant in other contexts, the textbook's explanation for differential vulnerability centres on the declining rate of neurogenesis.",
+      "C": "Myelination occurs after neurogenesis, migration, and differentiation; neurons are not myelinated during the stages being discussed, and axon regeneration is a separate issue."
+    },
+    "concept_tags": [
+      "fetal brain vulnerability",
+      "neurogenesis",
+      "cell migration",
+      "cell differentiation",
+      "brain injury"
+    ],
+    "textbook_source": "Section 8-2"
+  },
+  {
+    "question_id": "80-3_T1_01",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "is_bonus": false,
+    "question": "Between 1 and 3 months of age, the textbook describes infants beginning a specific type of spontaneous movement. What is this behaviour, and what does it consist of?",
+    "options": {
+      "A": "Locomotive babbling — random leg movements that prepare infants for independent walking",
+      "B": "Postural babbling — head and neck movements that develop before trunk and limb control",
+      "C": "Motor babbling — spontaneous hand and digit movements that include almost all the skilled finger movements the infant will make as an adult",
+      "D": "Reflex babbling — involuntary arm extensions triggered by the asymmetric tonic neck reflex"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "The textbook describes motor babbling as spontaneous hand and digit movements that begin between 1 and 3 months of age and consist of almost all the skilled finger movements the child will make as an adult. These are initially directed at the infant's own body and clothes before later being directed toward external objects.",
+    "distractor_explanations": {
+      "A": "The textbook does not describe 'locomotive babbling'; the concept applies specifically to hand and digit movements, not leg movements.",
+      "B": "'Postural babbling' is not a textbook term; the concept described is motor babbling involving finger and hand movements.",
+      "D": "The asymmetric tonic neck reflex is a distinct neonatal reflex; motor babbling is a spontaneous, not reflexive, behaviour."
+    },
+    "concept_tags": [
+      "motor babbling",
+      "motor development",
+      "infants",
+      "digit movements",
+      "neural maturation"
+    ],
+    "textbook_source": "Section 8-3"
+  },
+  {
+    "question_id": "80-3_T1_02",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "is_bonus": false,
+    "question": "Which sequence correctly lists Piaget's four stages of cognitive development from earliest to latest?",
+    "options": {
+      "A": "Preoperational → sensorimotor → concrete operational → formal operational",
+      "B": "Sensorimotor → preoperational → concrete operational → formal operational",
+      "C": "Sensorimotor → concrete operational → preoperational → formal operational",
+      "D": "Preoperational → concrete operational → sensorimotor → formal operational"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "Piaget's four stages in order are: (1) sensorimotor (birth–2 years), (2) preoperational (2–7 years), (3) concrete operational (7–11 years), (4) formal operational (11+ years). Each stage reflects increasingly abstract cognitive capacities supported by underlying neural maturation.",
+    "distractor_explanations": {
+      "A": "The sensorimotor stage is the first, not the preoperational stage; infants interact with the world through action before developing symbolic thought.",
+      "C": "The preoperational stage comes before concrete operational, not after it; logical operations on concrete objects develop only after symbolic thought.",
+      "D": "The sensorimotor stage, not the preoperational, is the earliest; and the formal operational stage always comes last."
+    },
+    "concept_tags": [
+      "Piaget",
+      "cognitive development",
+      "sensorimotor",
+      "preoperational",
+      "formal operational"
+    ],
+    "textbook_source": "Section 8-3"
+  },
+  {
+    "question_id": "80-3_T1_03",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 1,
+    "difficulty_label": "Recall",
+    "is_bonus": false,
+    "question": "At approximately what age does the pincer grasp first develop in human infants, according to the textbook?",
+    "options": {
+      "A": "8–11 months",
+      "B": "12–15 months",
+      "C": "3–5 months",
+      "D": "18–24 months"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "The textbook states that between 8 and 11 months, the pincer grasp — created by opposing the index finger and thumb — develops. It continues to mature until age 3 and is significant because it enables precise manipulation of small objects.",
+    "distractor_explanations": {
+      "B": "By 12–15 months the pincer grasp is already developing further; it first appears at 8–11 months.",
+      "C": "At 3–5 months, infants are still in the phase of spontaneous motor babbling and early reaching; the pincer grasp comes considerably later.",
+      "D": "18–24 months is too late; the pincer grasp first emerges at 8–11 months, though it continues refining until age 3."
+    },
+    "concept_tags": [
+      "pincer grasp",
+      "motor development",
+      "infants",
+      "fine motor control"
+    ],
+    "textbook_source": "Section 8-3"
+  },
+  {
+    "question_id": "80-3_T2_01",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": false,
+    "question": "The textbook explains that specific myelination events in the motor cortex correspond to specific stages of grasping development. Which statement best describes this relationship?",
+    "options": {
+      "A": "All motor cortex neurons myelinate simultaneously, enabling the full range of grasping skills to emerge at the same time",
+      "B": "The pincer grasp develops before whole-hand grasping because fine motor neurons myelinate earlier than gross motor neurons",
+      "C": "Cerebellar myelination is the primary driver of all grasping stages, with cortical myelination playing only a minor role",
+      "D": "One group of motor cortex axons myelinates when whole-hand grasping develops; a separate group controlling individual finger movements myelinates when the pincer grasp emerges"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "The textbook describes a specific correspondence: a group of motor cortex axons myelinates at approximately the same time that whole-hand reaching and grasping develop, and a distinct group of motor cortex neurons controlling finger movements myelinates at approximately the time the pincer grasp develops. This illustrates how the timing of myelination predicts the timing of specific motor behaviours.",
+    "distractor_explanations": {
+      "A": "Different groups of motor cortex neurons myelinate at different times, which is precisely why grasping skills emerge in a sequence rather than all at once.",
+      "B": "The textbook describes whole-hand grasping before the pincer grasp, not after; gross motor control precedes fine motor control.",
+      "C": "The textbook specifically links motor cortex myelination to grasping stages; the cerebellum is not identified as the primary driver in this account."
+    },
+    "concept_tags": [
+      "myelination",
+      "grasping development",
+      "motor cortex",
+      "pincer grasp",
+      "whole-hand grasping"
+    ],
+    "textbook_source": "Section 8-3"
+  },
+  {
+    "question_id": "80-3_T2_02",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": false,
+    "question": "The textbook uses the Tower of Hanoi test to illustrate the link between frontal lobe maturation and planning ability. Why can most 15–17-year-olds solve difficult versions of the task, while 10-year-olds cannot?",
+    "options": {
+      "A": "By age 15, the hippocampus has fully myelinated, providing the working memory capacity needed for multi-step planning",
+      "B": "The cerebellum, which coordinates sequential movements, completes myelination between ages 10 and 15",
+      "C": "The frontal lobe regions underlying planning and organised thought are among the last brain areas to mature, not reaching adult function until mid-to-late adolescence",
+      "D": "Children under 15 lack the language comprehension to understand the task instructions fully"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "The textbook explicitly links the Tower of Hanoi performance difference to frontal lobe development: most 10-year-olds cannot solve complex versions because the frontal structures controlling planning are still maturing. These regions are among the last to develop, reaching adult-level function only in mid-to-late adolescence. This also explains why adults with frontal lobe injuries fail the same task.",
+    "distractor_explanations": {
+      "A": "The textbook attributes Tower of Hanoi performance to frontal lobe maturation, not hippocampal myelination; the hippocampus is more associated with memory consolidation.",
+      "B": "The textbook's account centres on frontal lobe maturation, not cerebellar myelination, for this planning task.",
+      "D": "Language comprehension is not the textbook's explanation; the deficit in 10-year-olds reflects neural immaturity of frontal planning circuits, not linguistic limitations."
+    },
+    "concept_tags": [
+      "Tower of Hanoi",
+      "frontal lobe",
+      "planning",
+      "adolescent development",
+      "neural maturation"
+    ],
+    "textbook_source": "Section 8-3, Figure 8-1"
+  },
+  {
+    "question_id": "80-3_T2_03",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": false,
+    "question": "MRI studies show that greater motor dexterity is associated with decreased cortical thickness in hand motor regions. How does the textbook explain why cortical thinning can reflect improved performance?",
+    "options": {
+      "A": "Thinning reflects the pruning of neurons and synapses throughout development, which refines and strengthens the remaining, most-used neural circuits",
+      "B": "Thinning indicates that neurons are migrating from the cortex to subcortical motor structures as skills become automated",
+      "C": "Thinning reflects myelination, which compresses cortical tissue and makes it appear thinner on MRI scans",
+      "D": "Thinning indicates the death of glial cells that were previously consuming resources needed for efficient neural processing"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "The textbook explains that cortical thinning partly reflects synaptic pruning — the elimination of less-used synapses and neurons — which refines and strengthens remaining circuits. This is contrasted with cortical thickening, which reflects the addition of synapses, astrocytes, and blood vessels associated with new learning. Both can indicate improved performance depending on the stage of development.",
+    "distractor_explanations": {
+      "B": "The textbook does not describe neurons physically migrating to subcortical structures as skills become automated; thinning reflects pruning.",
+      "C": "Myelination is associated with cortical thickening (addition of myelin around axons), not thinning; the two effects are separable.",
+      "D": "Glial cell death is not the textbook's explanation; synaptic pruning of neurons and their connections is the relevant mechanism."
+    },
+    "concept_tags": [
+      "cortical thinning",
+      "synaptic pruning",
+      "motor dexterity",
+      "MRI",
+      "cortical thickness"
+    ],
+    "textbook_source": "Section 8-3, Figure 8-21"
+  },
+  {
+    "question_id": "80-3_T3_01",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "is_bonus": false,
+    "question": "The Tower of Hanoi test cannot be solved efficiently by most 10-year-olds but can be solved by 15–17-year-olds. Adults with acquired frontal lobe damage also fail the task. What integrated conclusion does the textbook draw from these two converging findings?",
+    "options": {
+      "A": "Both findings confirm that the cerebellum — which coordinates sequential planning of movements — matures slowly and is highly vulnerable to acquired injury",
+      "B": "Both findings point to the frontal lobe as the neural substrate for planning and organisation, while also demonstrating that this region is still maturing well into adolescence",
+      "C": "Both findings suggest that working memory — dependent on the hippocampus — develops slowly and is vulnerable to adult-onset damage",
+      "D": "Both findings indicate that planning ability is primarily shaped by environmental experience rather than brain maturation, since it develops over many years"
+    },
+    "correct_answer": "B",
+    "correct_explanation": "The two findings converge on the frontal lobe: (1) its late maturation explains why complex planning is unavailable to 10-year-olds but not to 17-year-olds, and (2) the fact that frontal lobe damage in adults recreates this deficit confirms that the frontal lobe is the neural substrate of planning. Together, they show both that the frontal lobe matures late and that it is essential for this function.",
+    "distractor_explanations": {
+      "A": "The textbook explicitly links Tower of Hanoi performance to the frontal lobe, not the cerebellum.",
+      "C": "Working memory and the hippocampus are not the textbook's explanation for Tower of Hanoi performance; planning, a frontal lobe function, is the relevant process.",
+      "D": "The textbook's account is explicitly neural — slow frontal maturation explains the developmental difference, not learning or experience alone."
+    },
+    "concept_tags": [
+      "Tower of Hanoi",
+      "frontal lobe",
+      "planning",
+      "brain maturation",
+      "lesion evidence"
+    ],
+    "textbook_source": "Section 8-3"
+  },
+  {
+    "question_id": "80-3_T3_02",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "is_bonus": false,
+    "question": "The textbook describes sex differences in the timing of brain development. Which of the following best integrates these differences with observable behavioural patterns in adolescence?",
+    "options": {
+      "A": "Males develop frontal lobe connections earlier than females, which explains why adolescent males typically show better impulse control than females",
+      "B": "Sex differences in brain development are confined to the hypothalamus and have no meaningful influence on cortical maturation or adolescent behaviour",
+      "C": "Females complete all cortical maturation earlier than males, granting females a permanent cognitive advantage that persists throughout adulthood",
+      "D": "Because key brain regions — including frontal circuits — mature at different rates in males and females, the timing of behavioural transitions such as risk-taking and emotional regulation also differs between sexes"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "The textbook notes sex differences in the timing of brain development. Because frontal and other cortical regions mature at different rates in males and females, the behavioural correlates of these regions — including impulse control, risk-taking, and emotional regulation — also differ in their developmental timing between sexes. This illustrates the broader principle that brain maturation timing predicts when specific behaviours emerge.",
+    "distractor_explanations": {
+      "A": "The textbook does not state that males develop frontal connections earlier; sex differences in development are more complex and do not simply favour males in frontal maturation.",
+      "B": "Sex differences extend beyond the hypothalamus to cortical regions, including those involved in planning and emotional regulation.",
+      "C": "While females generally show some earlier maturation in certain regions, the textbook does not describe a permanent and universal cognitive advantage for females."
+    },
+    "concept_tags": [
+      "sex differences",
+      "brain development",
+      "frontal lobe",
+      "adolescence",
+      "behavioural development"
+    ],
+    "textbook_source": "Section 8-3"
+  },
+  {
+    "question_id": "80-3_T3_03",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "is_bonus": false,
+    "question": "The textbook uses both motor development (e.g., the pincer grasp) and language emergence as evidence for inferring the timing of neural maturation. What is the core logic of this inferential strategy?",
+    "options": {
+      "A": "Only behaviours that appear suddenly can indicate neural maturation; gradual behavioural changes always reflect learning rather than brain development",
+      "B": "Motor and language development depend on the same neural circuits, so their simultaneous emergence identifies a single shared critical period of cortical maturation",
+      "C": "Because specific behaviours depend on specific neural circuits, the timing of a behaviour's emergence can be used to infer when the underlying neural structures have matured sufficiently to support it",
+      "D": "Behavioural evidence is preferred over neuroimaging because current imaging technology cannot detect myelination or synaptic pruning directly"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "The core inferential logic is straightforward: behaviours cannot emerge until the neural machinery that supports them has developed. Therefore, when a new behaviour appears — whether a pincer grasp or the first words — its timing can be used to infer the maturational state of the relevant neural circuits. This bidirectional relationship between brain and behaviour is one of the three frameworks described at the opening of Section 8-1.",
+    "distractor_explanations": {
+      "A": "The textbook does not restrict the inferential strategy to sudden behavioural changes; gradual improvements (like the progressive refinement of grasping) are equally valid as evidence of neural maturation.",
+      "B": "Motor and language development depend on different neural circuits; using them as independent converging evidence is more powerful precisely because they reflect distinct neural systems.",
+      "D": "The textbook uses behavioural evidence as complementary to, not a substitute for, neuroimaging; and modern neuroimaging techniques can in fact detect myelination changes."
+    },
+    "concept_tags": [
+      "neural maturation",
+      "behavioural inference",
+      "motor development",
+      "language development",
+      "brain-behaviour relationship"
+    ],
+    "textbook_source": "Section 8-3"
+  },
+  {
+    "question_id": "80-2_B01",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "Rakic and colleagues proposed the concept of a cortical 'protomap' in the subventricular zone. What is the functional implication of this protomap?",
+    "options": {
+      "A": "Cells formed in a specific region of the subventricular zone are predisposed to migrate to a corresponding cortical location, providing intrinsic spatial organisation to cortical development",
+      "B": "The subventricular zone randomly assigns neurons to cortical locations, with final positioning determined entirely by activity-dependent experience",
+      "C": "The protomap means the entire cortex is pre-wired at birth and cannot be reorganised by experience",
+      "D": "Neurons from the subventricular zone bypass the cortex and migrate to subcortical structures first, then return to the cortex"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "Rakic's cortical protomap hypothesis proposes that the subventricular zone contains a primitive spatial map of the cortex: cells born in one subventricular region are predisposed to migrate to a corresponding cortical area. For example, one region may produce cells destined for the visual cortex, another for the frontal lobes. This provides an intrinsic blueprint for cortical organisation.",
+    "distractor_explanations": {
+      "B": "The protomap hypothesis proposes intrinsic predisposition, not random assignment — this is the opposite of what Rakic proposed.",
+      "C": "Having a developmental protomap does not mean the cortex is immutably pre-wired; plasticity can still reshape organisation after migration.",
+      "D": "Neurons follow radial glial fibres directly to their cortical destinations; they do not migrate to subcortical regions first."
+    },
+    "concept_tags": [
+      "cortical protomap",
+      "subventricular zone",
+      "Rakic",
+      "neural migration",
+      "cortical organisation"
+    ],
+    "textbook_source": "Section 8-2, Figure 8-10"
+  },
+  {
+    "question_id": "80-2_B02",
+    "chapter": 80,
+    "section_id": "80-2",
+    "section_title": "Neurobiology of Development (Extended)",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "The textbook describes a naturally occurring example of hormonal control of neurogenesis in adult brains. What is this example?",
+    "options": {
+      "A": "Testosterone levels in adolescent males stimulate hippocampal neurogenesis, explaining the growth spurt in spatial memory during puberty",
+      "B": "Cortisol released during stress directly stimulates the subventricular zone to produce new neurons as a compensatory response",
+      "C": "Prolactin levels increase during mouse pregnancy and stimulate the fetal brain to produce more neurons — and this hormonal signal has been shown to replace lost neurons in brain-injured animals",
+      "D": "Estrogen released at puberty in females triggers a final wave of cortical neurogenesis that accounts for late-maturing regions"
+    },
+    "correct_answer": "C",
+    "correct_explanation": "The textbook gives prolactin as an example of naturally occurring hormonal control of neurogenesis: its levels increase during mouse pregnancy and stimulate increased neuron production in the fetal brain. These naturally occurring signals have also been shown to replace lost neurons in brain-injured laboratory animals, suggesting a potential avenue for managing neurological diseases.",
+    "distractor_explanations": {
+      "A": "The textbook does not describe testosterone as a stimulator of hippocampal neurogenesis; prolactin in pregnant mice is the example given.",
+      "B": "Cortisol (stress) generally suppresses neurogenesis in the hippocampus rather than stimulating it; the textbook's example is prolactin.",
+      "D": "The textbook does not describe an estrogen-driven final wave of cortical neurogenesis; the prolactin example is specific to pregnancy-related neuronal production."
+    },
+    "concept_tags": [
+      "prolactin",
+      "neurogenesis",
+      "hormones",
+      "adult neurogenesis",
+      "brain injury recovery"
+    ],
+    "textbook_source": "Section 8-2"
+  },
+  {
+    "question_id": "80-3_B01",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 2,
+    "difficulty_label": "Understanding",
+    "is_bonus": true,
+    "question": "The textbook describes a sequence in the development of grasping that moves from whole-hand grasping to the pincer grasp. What does this developmental sequence reveal about the underlying neural maturation?",
+    "options": {
+      "A": "Gross motor control (whole-hand) precedes fine motor control (pincer), reflecting the earlier myelination of axons controlling large hand movements before those controlling individual finger movements",
+      "B": "Fine motor control (pincer) precedes gross motor control (whole-hand) because fine motor neurons are located closer to the cortical surface and myelinate first",
+      "C": "Both types of grasping depend on the same neural circuits; the sequence is determined by muscle strength development, not neural maturation",
+      "D": "The sequence is driven by cerebellar maturation rather than by cortical myelination, as the cerebellum controls all voluntary grasping movements"
+    },
+    "correct_answer": "A",
+    "correct_explanation": "The textbook explicitly links the grasping sequence to the timing of myelination: one group of motor cortex axons myelinates when whole-hand grasping develops, and a later-myelinating group controls individual finger movements (and thus the pincer grasp). Gross motor control — requiring less precision — is supported by earlier-myelinating pathways, while fine motor control depends on later-myelinating ones.",
+    "distractor_explanations": {
+      "B": "The textbook describes the opposite sequence — whole-hand grasping precedes the pincer grasp; fine motor control does not myelinate first.",
+      "C": "The textbook specifically attributes the grasping sequence to differential myelination of motor cortex neurons, not to muscle strength.",
+      "D": "The textbook focuses on motor cortex myelination to explain the grasping sequence, not cerebellar maturation."
+    },
+    "concept_tags": [
+      "grasping sequence",
+      "myelination",
+      "motor cortex",
+      "gross motor",
+      "fine motor",
+      "pincer grasp"
+    ],
+    "textbook_source": "Section 8-3"
+  },
+  {
+    "question_id": "80-3_B02",
+    "chapter": 80,
+    "section_id": "80-3",
+    "section_title": "Using Emerging Behaviors to Infer Neural Maturation (Extended)",
+    "difficulty_tier": 3,
+    "difficulty_label": "Integration",
+    "is_bonus": true,
+    "question": "Experiment 8-1 in the textbook investigated the sequence in which forebrain structures required for learning and memory mature. What is the broader significance of this type of research for understanding cognitive development?",
+    "options": {
+      "A": "It shows that all forebrain memory structures mature simultaneously, confirming that different types of memory emerge together in early childhood",
+      "B": "It demonstrates that the prefrontal cortex matures first, providing the executive control needed to consolidate all other types of early memory",
+      "C": "It confirms that environmental experience alone — not neural maturation — determines the sequence in which different memory abilities emerge",
+      "D": "It shows that different forebrain structures mature in a specific sequence, which can explain why certain types of learning and memory emerge at predictable developmental stages rather than all at once"
+    },
+    "correct_answer": "D",
+    "correct_explanation": "The experiment illustrates the broader principle that different brain structures mature at different times, and that the sequence of cognitive and memory abilities in development mirrors the sequence of neural maturation. This supports the inferential strategy of using the timing of behavioural emergence to deduce which brain regions have matured — and explains why different memory systems (e.g., implicit vs. explicit) come online at different ages.",
+    "distractor_explanations": {
+      "A": "The significance of this research is precisely that structures do NOT mature simultaneously — the sequence of maturation predicts the sequence of functional emergence.",
+      "B": "The prefrontal cortex is among the last structures to mature, not the first; it does not provide early executive control for consolidating other memories.",
+      "C": "The research supports the role of neural maturation in the sequence of cognitive development; experience alone cannot explain a biologically driven maturational sequence."
+    },
+    "concept_tags": [
+      "forebrain maturation",
+      "memory development",
+      "learning",
+      "cognitive development",
+      "neural maturation sequence"
+    ],
+    "textbook_source": "Section 8-3, Experiment 8-1"
   }
 ]
